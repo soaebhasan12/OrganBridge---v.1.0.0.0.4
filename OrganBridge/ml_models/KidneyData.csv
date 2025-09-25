@@ -1,0 +1,864 @@
+Time,Delta,Gender,Race,Age,Blood Type,PosNeg,Smoke,Drug,Alcohol,AvgSleep,City
+"Quantity[1, ""Days""]",alive,Boy,White,28,O,Neg,STrue,DFalse,AFalse,6,Seattle
+"Quantity[5, ""Days""]",alive,Boy,Black,52,B,Pos,STrue,DTrue,ATrue,5,Seattle
+"Quantity[7, ""Days""]",dead,Girl,Indigenious,63,O,Pos,SFalse,DFalse,ATrue,7,Baltimore
+"Quantity[9, ""Days""]",alive,Girl,White,29,A,Neg,STrue,DTrue,ATrue,6,Atlanta
+"Quantity[13, ""Days""]",alive,Girl,Indigenious,48,B,Neg,STrue,DFalse,AFalse,7,Houston
+"Quantity[13, ""Days""]",alive,Boy,Asian,69,O,Neg,SFalse,DFalse,ATrue,10,Baltimore
+"Quantity[17, ""Days""]",dead,Girl,Asian,45,AB,Neg,SFalse,DTrue,ATrue,8,San Fransisco
+"Quantity[20, ""Days""]",alive,Girl,White,69,B,Neg,SFalse,DTrue,ATrue,7,Phoenix
+"Quantity[26, ""Days""]",dead,Boy,Asian,40,AB,Pos,STrue,DFalse,AFalse,8,Baltimore
+"Quantity[26, ""Days""]",dead,Girl,White,22,AB,Neg,SFalse,DTrue,AFalse,5,Detroit
+"Quantity[28, ""Days""]",dead,Girl,Indigenious,28,O,Pos,STrue,DTrue,AFalse,9,New York
+"Quantity[32, ""Days""]",alive,Girl,Black,36,O,Neg,STrue,DFalse,AFalse,9,Detroit
+"Quantity[32, ""Days""]",alive,Boy,Black,32,O,Pos,STrue,DFalse,ATrue,5,Baltimore
+"Quantity[43, ""Days""]",alive,Boy,White,41,AB,Neg,SFalse,DFalse,ATrue,9,Atlanta
+"Quantity[43, ""Days""]",dead,Girl,White,61,B,Neg,STrue,DTrue,ATrue,7,Detroit
+"Quantity[44, ""Days""]",dead,Boy,Black,41,AB,Neg,STrue,DFalse,ATrue,8,Baltimore
+"Quantity[51, ""Days""]",alive,Boy,Black,36,O,Pos,SFalse,DTrue,AFalse,10,New York
+"Quantity[51, ""Days""]",alive,Girl,Black,67,AB,Neg,STrue,DTrue,AFalse,5,Seattle
+"Quantity[51, ""Days""]",alive,Girl,White,36,O,Neg,SFalse,DTrue,ATrue,5,Atlanta
+"Quantity[56, ""Days""]",dead,Boy,White,45,O,Pos,SFalse,DFalse,ATrue,9,New York
+"Quantity[57, ""Days""]",dead,Boy,Asian,27,AB,Neg,STrue,DFalse,ATrue,10,San Fransisco
+"Quantity[59, ""Days""]",dead,Boy,Indigenious,54,A,Neg,SFalse,DTrue,ATrue,5,Atlanta
+"Quantity[62, ""Days""]",dead,Boy,White,63,AB,Neg,SFalse,DFalse,AFalse,7,Atlanta
+"Quantity[66, ""Days""]",alive,Girl,Black,26,O,Neg,SFalse,DFalse,ATrue,10,Houston
+"Quantity[66, ""Days""]",alive,Boy,White,43,A,Neg,SFalse,DTrue,AFalse,8,Houston
+"Quantity[67, ""Days""]",alive,Boy,White,43,A,Neg,STrue,DTrue,AFalse,9,Houston
+"Quantity[68, ""Days""]",dead,Boy,Asian,38,O,Neg,STrue,DTrue,AFalse,7,Baltimore
+"Quantity[69, ""Days""]",dead,Boy,White,66,AB,Neg,STrue,DFalse,AFalse,6,Baltimore
+"Quantity[79, ""Days""]",alive,Boy,White,30,B,Neg,SFalse,DFalse,ATrue,9,Baltimore
+"Quantity[79, ""Days""]",dead,Girl,Black,49,A,Neg,SFalse,DTrue,ATrue,8,Detroit
+"Quantity[79, ""Days""]",alive,Boy,White,51,O,Pos,STrue,DTrue,ATrue,10,San Fransisco
+"Quantity[87, ""Days""]",alive,Girl,White,30,A,Pos,SFalse,DTrue,ATrue,10,Atlanta
+"Quantity[88, ""Days""]",dead,Girl,Indigenious,22,O,Neg,STrue,DFalse,AFalse,11,Detroit
+"Quantity[91, ""Days""]",dead,Girl,Asian,70,A,Pos,STrue,DFalse,ATrue,7,San Fransisco
+"Quantity[93, ""Days""]",alive,Girl,Indigenious,23,AB,Pos,SFalse,DFalse,ATrue,9,Detroit
+"Quantity[98, ""Days""]",dead,Girl,Indigenious,19,O,Neg,SFalse,DFalse,ATrue,11,Phoenix
+"Quantity[98, ""Days""]",dead,Girl,Asian,35,AB,Neg,STrue,DTrue,ATrue,5,Phoenix
+"Quantity[104, ""Days""]",alive,Girl,Indigenious,52,AB,Pos,STrue,DFalse,ATrue,10,Houston
+"Quantity[105, ""Days""]",alive,Girl,Indigenious,29,AB,Pos,SFalse,DTrue,ATrue,11,Seattle
+"Quantity[106, ""Days""]",dead,Boy,Indigenious,43,B,Neg,SFalse,DTrue,AFalse,10,San Fransisco
+"Quantity[112, ""Days""]",alive,Boy,Asian,66,AB,Pos,SFalse,DTrue,ATrue,11,Atlanta
+"Quantity[116, ""Days""]",alive,Boy,Indigenious,41,A,Pos,STrue,DFalse,AFalse,7,Atlanta
+"Quantity[116, ""Days""]",alive,Boy,White,46,A,Pos,SFalse,DFalse,ATrue,6,San Fransisco
+"Quantity[118, ""Days""]",alive,Girl,Asian,50,A,Neg,STrue,DFalse,ATrue,6,Baltimore
+"Quantity[119, ""Days""]",dead,Girl,Black,51,AB,Neg,STrue,DTrue,AFalse,10,Atlanta
+"Quantity[121, ""Days""]",alive,Boy,Indigenious,63,AB,Pos,STrue,DFalse,ATrue,11,Phoenix
+"Quantity[121, ""Days""]",alive,Girl,White,23,B,Neg,STrue,DFalse,ATrue,8,Detroit
+"Quantity[135, ""Days""]",dead,Girl,Indigenious,19,AB,Neg,STrue,DTrue,AFalse,10,Seattle
+"Quantity[144, ""Days""]",alive,Boy,Black,52,O,Pos,STrue,DFalse,ATrue,11,Detroit
+"Quantity[150, ""Days""]",dead,Boy,Indigenious,44,O,Pos,SFalse,DFalse,ATrue,7,Baltimore
+"Quantity[150, ""Days""]",alive,Boy,White,49,A,Neg,STrue,DFalse,ATrue,6,Atlanta
+"Quantity[162, ""Days""]",dead,Girl,Indigenious,50,A,Neg,SFalse,DFalse,ATrue,5,San Fransisco
+"Quantity[162, ""Days""]",alive,Boy,White,59,B,Pos,STrue,DTrue,ATrue,9,Baltimore
+"Quantity[167, ""Days""]",alive,Girl,White,70,B,Pos,STrue,DTrue,ATrue,11,Detroit
+"Quantity[183, ""Days""]",alive,Girl,Indigenious,25,AB,Pos,SFalse,DFalse,AFalse,11,Phoenix
+"Quantity[186, ""Days""]",alive,Boy,Indigenious,50,B,Neg,STrue,DFalse,AFalse,11,New York
+"Quantity[190, ""Days""]",dead,Boy,Asian,58,AB,Pos,STrue,DFalse,ATrue,10,Seattle
+"Quantity[198, ""Days""]",alive,Girl,Black,20,AB,Pos,SFalse,DTrue,AFalse,6,Houston
+"Quantity[198, ""Days""]",alive,Girl,Asian,43,B,Pos,STrue,DTrue,AFalse,5,Baltimore
+"Quantity[200, ""Days""]",alive,Boy,Indigenious,47,AB,Pos,SFalse,DTrue,AFalse,5,Detroit
+"Quantity[211, ""Days""]",alive,Girl,Asian,67,B,Pos,SFalse,DFalse,ATrue,9,Houston
+"Quantity[215, ""Days""]",alive,Girl,Indigenious,50,B,Neg,SFalse,DFalse,AFalse,8,San Fransisco
+"Quantity[223, ""Days""]",alive,Girl,Asian,25,A,Neg,STrue,DTrue,AFalse,9,Seattle
+"Quantity[224, ""Days""]",alive,Boy,White,55,O,Pos,STrue,DTrue,ATrue,6,San Fransisco
+"Quantity[228, ""Days""]",dead,Boy,Indigenious,23,B,Neg,STrue,DTrue,AFalse,9,Seattle
+"Quantity[236, ""Days""]",alive,Boy,Black,53,O,Pos,STrue,DTrue,ATrue,8,Baltimore
+"Quantity[238, ""Days""]",alive,Boy,Black,65,O,Neg,STrue,DTrue,AFalse,9,Seattle
+"Quantity[242, ""Days""]",dead,Boy,Black,38,AB,Neg,SFalse,DFalse,ATrue,8,Phoenix
+"Quantity[243, ""Days""]",alive,Girl,Indigenious,27,A,Neg,SFalse,DTrue,AFalse,9,Seattle
+"Quantity[248, ""Days""]",dead,Girl,Indigenious,57,A,Neg,SFalse,DTrue,AFalse,11,Seattle
+"Quantity[249, ""Days""]",dead,Boy,Asian,66,B,Neg,SFalse,DTrue,ATrue,7,Baltimore
+"Quantity[251, ""Days""]",alive,Girl,White,21,A,Neg,SFalse,DFalse,AFalse,10,Baltimore
+"Quantity[252, ""Days""]",dead,Boy,White,48,A,Neg,STrue,DFalse,ATrue,9,Phoenix
+"Quantity[253, ""Days""]",alive,Boy,Asian,64,A,Pos,SFalse,DFalse,ATrue,8,Baltimore
+"Quantity[256, ""Days""]",alive,Girl,Black,19,O,Pos,STrue,DFalse,AFalse,11,Detroit
+"Quantity[257, ""Days""]",alive,Girl,White,67,A,Neg,SFalse,DTrue,AFalse,6,Detroit
+"Quantity[259, ""Days""]",alive,Girl,Asian,63,AB,Pos,SFalse,DFalse,ATrue,9,Baltimore
+"Quantity[261, ""Days""]",alive,Girl,Black,40,AB,Neg,SFalse,DTrue,AFalse,10,Detroit
+"Quantity[271, ""Days""]",alive,Boy,Asian,34,A,Neg,SFalse,DTrue,ATrue,9,Detroit
+"Quantity[271, ""Days""]",alive,Girl,Black,41,AB,Neg,SFalse,DTrue,ATrue,11,Detroit
+"Quantity[277, ""Days""]",alive,Girl,Indigenious,40,A,Neg,STrue,DTrue,ATrue,10,Seattle
+"Quantity[283, ""Days""]",alive,Boy,Black,69,AB,Pos,SFalse,DFalse,ATrue,9,Seattle
+"Quantity[284, ""Days""]",alive,Girl,White,20,B,Neg,STrue,DTrue,AFalse,5,Atlanta
+"Quantity[289, ""Days""]",alive,Girl,Black,42,B,Neg,SFalse,DTrue,ATrue,11,Phoenix
+"Quantity[291, ""Days""]",dead,Girl,White,69,AB,Neg,SFalse,DTrue,AFalse,9,San Fransisco
+"Quantity[311, ""Days""]",dead,Girl,White,36,B,Pos,SFalse,DTrue,AFalse,7,Houston
+"Quantity[312, ""Days""]",alive,Girl,Indigenious,19,A,Pos,STrue,DFalse,ATrue,5,Atlanta
+"Quantity[316, ""Days""]",alive,Boy,Black,59,A,Pos,STrue,DFalse,AFalse,8,Detroit
+"Quantity[316, ""Days""]",alive,Girl,Asian,54,AB,Pos,SFalse,DFalse,ATrue,9,Atlanta
+"Quantity[331, ""Days""]",alive,Boy,Black,53,AB,Neg,SFalse,DTrue,AFalse,9,Detroit
+"Quantity[334, ""Days""]",dead,Boy,Indigenious,42,O,Neg,SFalse,DFalse,AFalse,11,Atlanta
+"Quantity[338, ""Days""]",alive,Boy,Asian,40,A,Pos,SFalse,DFalse,AFalse,10,Atlanta
+"Quantity[340, ""Days""]",alive,Boy,Indigenious,31,B,Neg,SFalse,DFalse,AFalse,7,Detroit
+"Quantity[340, ""Days""]",dead,Boy,Asian,40,AB,Neg,SFalse,DTrue,AFalse,10,San Fransisco
+"Quantity[341, ""Days""]",alive,Boy,Indigenious,23,A,Pos,SFalse,DTrue,ATrue,5,San Fransisco
+"Quantity[346, ""Days""]",dead,Boy,Black,52,A,Pos,STrue,DTrue,ATrue,5,Atlanta
+"Quantity[347, ""Days""]",alive,Girl,Black,58,O,Neg,STrue,DTrue,AFalse,5,Houston
+"Quantity[354, ""Days""]",dead,Girl,Asian,70,B,Neg,SFalse,DFalse,ATrue,11,Detroit
+"Quantity[361, ""Days""]",alive,Girl,Black,67,AB,Pos,SFalse,DTrue,AFalse,5,Houston
+"Quantity[367, ""Days""]",alive,Girl,Indigenious,52,B,Pos,STrue,DFalse,ATrue,6,San Fransisco
+"Quantity[370, ""Days""]",alive,Girl,Asian,47,AB,Pos,SFalse,DTrue,ATrue,5,New York
+"Quantity[370, ""Days""]",alive,Boy,Black,54,A,Neg,SFalse,DFalse,ATrue,11,Houston
+"Quantity[386, ""Days""]",alive,Boy,Indigenious,56,B,Pos,STrue,DFalse,AFalse,7,Phoenix
+"Quantity[391, ""Days""]",dead,Girl,White,69,O,Neg,STrue,DTrue,AFalse,8,Phoenix
+"Quantity[392, ""Days""]",alive,Boy,Black,57,O,Neg,STrue,DFalse,AFalse,10,New York
+"Quantity[403, ""Days""]",alive,Girl,Black,30,O,Pos,STrue,DTrue,AFalse,6,San Fransisco
+"Quantity[406, ""Days""]",alive,Boy,Black,32,B,Neg,SFalse,DTrue,AFalse,11,Detroit
+"Quantity[410, ""Days""]",alive,Boy,Asian,42,O,Neg,SFalse,DFalse,ATrue,7,Detroit
+"Quantity[421, ""Days""]",dead,Boy,Black,60,AB,Pos,SFalse,DTrue,AFalse,6,San Fransisco
+"Quantity[428, ""Days""]",alive,Girl,White,61,B,Neg,STrue,DTrue,ATrue,6,Phoenix
+"Quantity[432, ""Days""]",alive,Girl,Asian,68,O,Pos,STrue,DFalse,AFalse,8,Houston
+"Quantity[432, ""Days""]",alive,Girl,Indigenious,20,B,Pos,STrue,DTrue,ATrue,5,Seattle
+"Quantity[439, ""Days""]",dead,Boy,Indigenious,56,A,Pos,SFalse,DTrue,AFalse,7,Phoenix
+"Quantity[452, ""Days""]",alive,Girl,White,20,O,Pos,SFalse,DFalse,AFalse,9,Seattle
+"Quantity[478, ""Days""]",dead,Boy,Indigenious,40,O,Neg,SFalse,DFalse,ATrue,6,New York
+"Quantity[481, ""Days""]",dead,Boy,Black,63,O,Pos,STrue,DFalse,AFalse,7,Houston
+"Quantity[485, ""Days""]",alive,Girl,Black,66,B,Pos,STrue,DTrue,AFalse,6,Seattle
+"Quantity[486, ""Days""]",alive,Boy,Indigenious,51,B,Pos,STrue,DFalse,AFalse,9,Seattle
+"Quantity[490, ""Days""]",alive,Girl,Indigenious,62,AB,Pos,SFalse,DTrue,AFalse,11,Detroit
+"Quantity[494, ""Days""]",alive,Girl,Black,33,O,Neg,STrue,DTrue,ATrue,7,Atlanta
+"Quantity[495, ""Days""]",dead,Girl,White,46,A,Pos,SFalse,DTrue,AFalse,6,New York
+"Quantity[512, ""Days""]",alive,Girl,Asian,65,A,Neg,SFalse,DTrue,AFalse,7,Detroit
+"Quantity[512, ""Days""]",alive,Boy,Indigenious,26,AB,Pos,STrue,DFalse,ATrue,6,Phoenix
+"Quantity[535, ""Days""]",alive,Girl,Asian,52,O,Pos,SFalse,DFalse,AFalse,11,Phoenix
+"Quantity[543, ""Days""]",alive,Girl,Indigenious,66,AB,Neg,STrue,DFalse,AFalse,11,Baltimore
+"Quantity[545, ""Days""]",alive,Girl,Black,38,AB,Neg,STrue,DTrue,ATrue,10,New York
+"Quantity[545, ""Days""]",alive,Girl,Indigenious,58,O,Neg,SFalse,DTrue,ATrue,5,Detroit
+"Quantity[545, ""Days""]",alive,Girl,Indigenious,40,A,Pos,SFalse,DFalse,ATrue,11,Atlanta
+"Quantity[563, ""Days""]",alive,Boy,White,50,B,Neg,SFalse,DTrue,ATrue,7,Baltimore
+"Quantity[570, ""Days""]",alive,Girl,Indigenious,50,AB,Pos,STrue,DTrue,ATrue,9,Phoenix
+"Quantity[570, ""Days""]",dead,Girl,White,32,AB,Neg,SFalse,DFalse,ATrue,9,Baltimore
+"Quantity[572, ""Days""]",alive,Girl,White,21,B,Pos,STrue,DFalse,AFalse,9,Phoenix
+"Quantity[579, ""Days""]",alive,Boy,White,37,B,Pos,STrue,DTrue,AFalse,10,Baltimore
+"Quantity[582, ""Days""]",alive,Boy,Indigenious,22,B,Neg,SFalse,DTrue,ATrue,7,Seattle
+"Quantity[583, ""Days""]",dead,Girl,Black,70,B,Neg,SFalse,DFalse,AFalse,7,Atlanta
+"Quantity[590, ""Days""]",alive,Boy,Black,69,B,Pos,SFalse,DFalse,AFalse,8,San Fransisco
+"Quantity[596, ""Days""]",alive,Girl,White,61,O,Pos,SFalse,DTrue,AFalse,6,Baltimore
+"Quantity[615, ""Days""]",dead,Girl,Asian,69,B,Neg,STrue,DTrue,AFalse,5,Baltimore
+"Quantity[621, ""Days""]",dead,Boy,Indigenious,27,A,Neg,SFalse,DFalse,ATrue,6,Atlanta
+"Quantity[630, ""Days""]",alive,Girl,Indigenious,58,A,Neg,SFalse,DTrue,ATrue,11,Houston
+"Quantity[631, ""Days""]",alive,Boy,White,70,O,Pos,SFalse,DTrue,AFalse,11,Baltimore
+"Quantity[633, ""Days""]",alive,Boy,Asian,43,O,Neg,SFalse,DFalse,ATrue,8,Houston
+"Quantity[652, ""Days""]",dead,Girl,Asian,58,O,Pos,STrue,DTrue,AFalse,10,Houston
+"Quantity[654, ""Days""]",alive,Boy,Black,38,B,Pos,SFalse,DTrue,ATrue,7,New York
+"Quantity[655, ""Days""]",alive,Boy,Asian,20,AB,Neg,SFalse,DFalse,AFalse,5,Seattle
+"Quantity[659, ""Days""]",alive,Boy,White,52,B,Pos,SFalse,DTrue,AFalse,6,Atlanta
+"Quantity[670, ""Days""]",alive,Girl,Indigenious,63,AB,Neg,SFalse,DTrue,AFalse,8,Houston
+"Quantity[670, ""Days""]",alive,Boy,Indigenious,47,A,Pos,STrue,DTrue,AFalse,5,Houston
+"Quantity[692, ""Days""]",alive,Boy,Black,47,B,Pos,SFalse,DTrue,AFalse,9,Phoenix
+"Quantity[697, ""Days""]",dead,Boy,Asian,69,B,Pos,STrue,DFalse,AFalse,9,Houston
+"Quantity[701, ""Days""]",alive,Girl,Black,31,AB,Pos,SFalse,DFalse,ATrue,7,Detroit
+"Quantity[719, ""Days""]",alive,Girl,Indigenious,62,A,Neg,SFalse,DTrue,ATrue,8,Phoenix
+"Quantity[723, ""Days""]",alive,Boy,White,19,A,Neg,STrue,DTrue,AFalse,6,Houston
+"Quantity[725, ""Days""]",alive,Girl,Black,68,O,Pos,STrue,DTrue,AFalse,9,Atlanta
+"Quantity[730, ""Days""]",dead,Girl,White,23,AB,Pos,SFalse,DTrue,ATrue,9,New York
+"Quantity[734, ""Days""]",alive,Boy,Indigenious,26,AB,Pos,STrue,DFalse,ATrue,8,Phoenix
+"Quantity[753, ""Days""]",alive,Boy,White,65,O,Neg,SFalse,DFalse,AFalse,8,Detroit
+"Quantity[757, ""Days""]",alive,Girl,White,50,O,Neg,STrue,DFalse,ATrue,6,Atlanta
+"Quantity[773, ""Days""]",dead,Boy,Asian,27,A,Pos,SFalse,DTrue,AFalse,8,Seattle
+"Quantity[776, ""Days""]",dead,Boy,White,51,O,Pos,STrue,DFalse,AFalse,9,Seattle
+"Quantity[790, ""Days""]",dead,Girl,Asian,29,B,Pos,STrue,DTrue,ATrue,5,Detroit
+"Quantity[806, ""Days""]",dead,Girl,Indigenious,67,B,Pos,SFalse,DTrue,AFalse,7,Baltimore
+"Quantity[834, ""Days""]",alive,Girl,Indigenious,55,O,Pos,SFalse,DTrue,AFalse,8,Houston
+"Quantity[835, ""Days""]",alive,Boy,White,55,AB,Pos,SFalse,DTrue,ATrue,6,Detroit
+"Quantity[864, ""Days""]",alive,Girl,Asian,63,B,Pos,STrue,DTrue,AFalse,6,Atlanta
+"Quantity[864, ""Days""]",alive,Girl,White,21,O,Pos,STrue,DFalse,ATrue,5,Detroit
+"Quantity[875, ""Days""]",dead,Girl,Indigenious,44,B,Neg,STrue,DTrue,ATrue,10,Seattle
+"Quantity[888, ""Days""]",alive,Boy,Black,35,AB,Pos,STrue,DTrue,ATrue,11,Seattle
+"Quantity[890, ""Days""]",alive,Girl,White,65,B,Neg,SFalse,DTrue,ATrue,9,Phoenix
+"Quantity[903, ""Days""]",alive,Boy,White,46,B,Pos,STrue,DTrue,AFalse,6,New York
+"Quantity[909, ""Days""]",alive,Girl,Indigenious,48,B,Pos,SFalse,DFalse,AFalse,7,New York
+"Quantity[915, ""Days""]",alive,Boy,Black,35,B,Neg,STrue,DTrue,ATrue,9,Phoenix
+"Quantity[932, ""Days""]",alive,Girl,Indigenious,39,A,Neg,SFalse,DFalse,ATrue,8,Detroit
+"Quantity[939, ""Days""]",dead,Boy,Indigenious,58,AB,Neg,STrue,DFalse,ATrue,8,Houston
+"Quantity[945, ""Days""]",dead,Boy,Black,39,O,Neg,SFalse,DFalse,AFalse,9,Detroit
+"Quantity[945, ""Days""]",dead,Boy,Indigenious,59,A,Neg,STrue,DTrue,AFalse,7,San Fransisco
+"Quantity[946, ""Days""]",dead,Boy,Indigenious,48,B,Neg,STrue,DFalse,ATrue,11,Houston
+"Quantity[951, ""Days""]",alive,Boy,Black,49,B,Pos,SFalse,DFalse,AFalse,5,Phoenix
+"Quantity[961, ""Days""]",alive,Girl,White,27,B,Neg,STrue,DFalse,ATrue,5,New York
+"Quantity[965, ""Days""]",alive,Girl,Indigenious,36,B,Neg,SFalse,DFalse,AFalse,6,Baltimore
+"Quantity[968, ""Days""]",alive,Boy,White,25,A,Pos,STrue,DTrue,AFalse,8,Baltimore
+"Quantity[1016, ""Days""]",alive,Girl,White,32,B,Pos,SFalse,DTrue,ATrue,7,San Fransisco
+"Quantity[1028, ""Days""]",alive,Girl,Asian,22,O,Pos,SFalse,DFalse,AFalse,8,Detroit
+"Quantity[1050, ""Days""]",alive,Boy,White,55,A,Pos,STrue,DFalse,ATrue,11,Houston
+"Quantity[1058, ""Days""]",alive,Girl,Asian,29,O,Neg,STrue,DFalse,ATrue,8,San Fransisco
+"Quantity[1058, ""Days""]",alive,Boy,Indigenious,70,A,Pos,STrue,DTrue,AFalse,9,Phoenix
+"Quantity[1092, ""Days""]",alive,Girl,Asian,60,AB,Neg,STrue,DTrue,AFalse,9,Seattle
+"Quantity[1092, ""Days""]",alive,Girl,White,25,B,Neg,SFalse,DTrue,AFalse,11,San Fransisco
+"Quantity[1105, ""Days""]",dead,Girl,Asian,32,O,Neg,SFalse,DTrue,AFalse,5,Baltimore
+"Quantity[1110, ""Days""]",alive,Boy,Indigenious,64,AB,Pos,SFalse,DTrue,ATrue,5,Houston
+"Quantity[1110, ""Days""]",alive,Girl,Indigenious,60,O,Pos,STrue,DTrue,AFalse,5,Seattle
+"Quantity[1114, ""Days""]",alive,Boy,Indigenious,42,A,Pos,SFalse,DFalse,ATrue,10,Seattle
+"Quantity[1115, ""Days""]",alive,Girl,Asian,19,B,Pos,STrue,DFalse,ATrue,7,Houston
+"Quantity[1118, ""Days""]",alive,Girl,Indigenious,70,A,Pos,STrue,DFalse,ATrue,7,Baltimore
+"Quantity[1124, ""Days""]",alive,Girl,Black,70,B,Neg,STrue,DTrue,ATrue,8,New York
+"Quantity[1124, ""Days""]",alive,Girl,White,69,B,Neg,SFalse,DFalse,ATrue,8,Baltimore
+"Quantity[1125, ""Days""]",alive,Boy,Indigenious,56,O,Neg,SFalse,DTrue,AFalse,11,Baltimore
+"Quantity[1128, ""Days""]",alive,Boy,Black,60,A,Neg,SFalse,DTrue,AFalse,6,Baltimore
+"Quantity[1128, ""Days""]",alive,Girl,Black,57,B,Neg,SFalse,DTrue,ATrue,11,New York
+"Quantity[1145, ""Days""]",alive,Boy,Asian,53,AB,Neg,STrue,DFalse,AFalse,8,Phoenix
+"Quantity[1149, ""Days""]",alive,Boy,Indigenious,36,A,Pos,SFalse,DTrue,AFalse,5,Baltimore
+"Quantity[1154, ""Days""]",alive,Boy,Black,47,B,Neg,STrue,DFalse,AFalse,10,Houston
+"Quantity[1154, ""Days""]",alive,Girl,Black,61,A,Neg,SFalse,DTrue,AFalse,5,Baltimore
+"Quantity[1165, ""Days""]",alive,Boy,Black,60,O,Pos,SFalse,DFalse,ATrue,11,Phoenix
+"Quantity[1186, ""Days""]",dead,Girl,Asian,50,AB,Neg,SFalse,DTrue,AFalse,7,Seattle
+"Quantity[1191, ""Days""]",dead,Boy,Indigenious,48,AB,Neg,SFalse,DTrue,ATrue,5,Detroit
+"Quantity[1196, ""Days""]",alive,Boy,Indigenious,24,AB,Neg,SFalse,DFalse,AFalse,7,Houston
+"Quantity[1208, ""Days""]",alive,Girl,White,70,A,Neg,STrue,DFalse,ATrue,5,San Fransisco
+"Quantity[1208, ""Days""]",alive,Girl,Black,57,B,Pos,SFalse,DTrue,AFalse,6,New York
+"Quantity[1210, ""Days""]",dead,Girl,Black,56,AB,Pos,SFalse,DFalse,AFalse,9,Detroit
+"Quantity[1224, ""Days""]",alive,Boy,White,70,A,Pos,SFalse,DTrue,AFalse,10,San Fransisco
+"Quantity[1224, ""Days""]",alive,Boy,White,51,AB,Neg,SFalse,DFalse,ATrue,6,Detroit
+"Quantity[1229, ""Days""]",alive,Boy,Black,19,B,Pos,SFalse,DFalse,AFalse,8,Houston
+"Quantity[1230, ""Days""]",alive,Girl,Asian,23,O,Neg,SFalse,DFalse,AFalse,8,New York
+"Quantity[1252, ""Days""]",alive,Boy,White,24,B,Neg,SFalse,DTrue,ATrue,6,Seattle
+"Quantity[1256, ""Days""]",alive,Girl,Asian,41,A,Neg,STrue,DTrue,AFalse,10,Atlanta
+"Quantity[1274, ""Days""]",alive,Girl,Indigenious,19,O,Pos,SFalse,DFalse,ATrue,5,Phoenix
+"Quantity[1291, ""Days""]",alive,Boy,Black,23,O,Pos,SFalse,DFalse,ATrue,9,San Fransisco
+"Quantity[1297, ""Days""]",alive,Boy,Asian,58,O,Neg,STrue,DFalse,AFalse,9,San Fransisco
+"Quantity[1297, ""Days""]",alive,Boy,Indigenious,21,O,Neg,SFalse,DTrue,ATrue,11,San Fransisco
+"Quantity[1302, ""Days""]",alive,Boy,Indigenious,62,AB,Pos,STrue,DFalse,ATrue,9,San Fransisco
+"Quantity[1313, ""Days""]",alive,Girl,Indigenious,33,A,Neg,STrue,DTrue,AFalse,5,Baltimore
+"Quantity[1316, ""Days""]",alive,Girl,White,37,B,Neg,SFalse,DTrue,ATrue,9,Detroit
+"Quantity[1350, ""Days""]",alive,Boy,Black,64,B,Pos,STrue,DFalse,ATrue,11,Atlanta
+"Quantity[1357, ""Days""]",dead,Boy,Indigenious,48,AB,Pos,SFalse,DFalse,ATrue,9,Seattle
+"Quantity[1383, ""Days""]",alive,Boy,Indigenious,36,AB,Pos,SFalse,DTrue,ATrue,10,Houston
+"Quantity[1383, ""Days""]",alive,Girl,Indigenious,50,A,Neg,SFalse,DTrue,ATrue,10,Seattle
+"Quantity[1383, ""Days""]",alive,Girl,Black,69,O,Neg,SFalse,DTrue,AFalse,8,Seattle
+"Quantity[1383, ""Days""]",alive,Boy,Asian,60,O,Neg,STrue,DTrue,ATrue,7,Atlanta
+"Quantity[1386, ""Days""]",alive,Girl,Indigenious,70,AB,Neg,STrue,DFalse,ATrue,11,Houston
+"Quantity[1388, ""Days""]",dead,Girl,White,47,B,Pos,STrue,DTrue,ATrue,7,Seattle
+"Quantity[1395, ""Days""]",alive,Girl,Indigenious,21,B,Neg,STrue,DTrue,AFalse,5,Seattle
+"Quantity[1418, ""Days""]",dead,Boy,Black,40,B,Neg,SFalse,DTrue,ATrue,10,Seattle
+"Quantity[1428, ""Days""]",alive,Boy,White,54,O,Pos,STrue,DTrue,ATrue,6,New York
+"Quantity[1429, ""Days""]",alive,Boy,Asian,63,B,Neg,STrue,DFalse,ATrue,11,San Fransisco
+"Quantity[1435, ""Days""]",alive,Girl,Indigenious,28,B,Pos,STrue,DTrue,ATrue,10,Baltimore
+"Quantity[1449, ""Days""]",alive,Girl,Black,28,B,Neg,SFalse,DFalse,ATrue,6,Seattle
+"Quantity[1449, ""Days""]",alive,Girl,Asian,30,A,Neg,SFalse,DTrue,ATrue,10,New York
+"Quantity[1450, ""Days""]",alive,Girl,Asian,67,A,Neg,STrue,DFalse,AFalse,11,Seattle
+"Quantity[1457, ""Days""]",alive,Boy,Black,47,O,Pos,SFalse,DTrue,AFalse,5,New York
+"Quantity[1463, ""Days""]",alive,Girl,Indigenious,44,O,Neg,SFalse,DTrue,AFalse,7,Atlanta
+"Quantity[1470, ""Days""]",alive,Girl,Asian,20,B,Neg,STrue,DFalse,ATrue,8,Detroit
+"Quantity[1497, ""Days""]",alive,Girl,Black,40,A,Neg,STrue,DFalse,ATrue,6,Detroit
+"Quantity[1497, ""Days""]",alive,Boy,Black,69,AB,Neg,STrue,DFalse,ATrue,6,Seattle
+"Quantity[1500, ""Days""]",alive,Boy,Indigenious,33,AB,Neg,STrue,DTrue,AFalse,7,Phoenix
+"Quantity[1509, ""Days""]",dead,Girl,Indigenious,47,B,Neg,STrue,DFalse,AFalse,7,Phoenix
+"Quantity[1522, ""Days""]",alive,Girl,Indigenious,41,A,Neg,SFalse,DFalse,AFalse,8,Phoenix
+"Quantity[1527, ""Days""]",alive,Boy,Indigenious,68,B,Pos,STrue,DTrue,AFalse,8,Seattle
+"Quantity[1527, ""Days""]",alive,Girl,White,68,A,Pos,SFalse,DFalse,AFalse,6,Detroit
+"Quantity[1541, ""Days""]",alive,Boy,Black,34,O,Neg,SFalse,DFalse,AFalse,8,Houston
+"Quantity[1567, ""Days""]",alive,Girl,Asian,65,AB,Pos,STrue,DTrue,ATrue,10,Baltimore
+"Quantity[1571, ""Days""]",alive,Girl,Black,50,O,Pos,STrue,DTrue,AFalse,7,Phoenix
+"Quantity[1578, ""Days""]",alive,Boy,Asian,31,A,Neg,SFalse,DTrue,AFalse,11,Houston
+"Quantity[1586, ""Days""]",alive,Boy,Asian,46,O,Pos,SFalse,DTrue,ATrue,6,San Fransisco
+"Quantity[1594, ""Days""]",alive,Girl,Black,59,B,Pos,SFalse,DFalse,ATrue,11,Atlanta
+"Quantity[1610, ""Days""]",alive,Boy,White,52,A,Pos,STrue,DTrue,ATrue,6,Seattle
+"Quantity[1610, ""Days""]",alive,Girl,White,55,A,Neg,SFalse,DTrue,AFalse,6,Detroit
+"Quantity[1611, ""Days""]",alive,Boy,White,70,A,Neg,STrue,DFalse,AFalse,8,Phoenix
+"Quantity[1617, ""Days""]",alive,Boy,Asian,65,O,Neg,SFalse,DFalse,ATrue,11,Phoenix
+"Quantity[1624, ""Days""]",alive,Girl,Asian,42,AB,Pos,SFalse,DFalse,ATrue,5,Phoenix
+"Quantity[1638, ""Days""]",alive,Boy,White,41,O,Pos,SFalse,DFalse,AFalse,5,Detroit
+"Quantity[1641, ""Days""]",alive,Girl,White,65,A,Neg,SFalse,DTrue,ATrue,7,Detroit
+"Quantity[1655, ""Days""]",alive,Boy,Asian,64,AB,Neg,SFalse,DTrue,AFalse,6,San Fransisco
+"Quantity[1668, ""Days""]",alive,Girl,White,24,A,Pos,STrue,DFalse,AFalse,11,New York
+"Quantity[1674, ""Days""]",alive,Girl,White,67,AB,Pos,SFalse,DFalse,ATrue,8,Phoenix
+"Quantity[1699, ""Days""]",alive,Boy,Indigenious,48,AB,Pos,SFalse,DFalse,ATrue,8,San Fransisco
+"Quantity[1700, ""Days""]",alive,Girl,White,65,A,Neg,STrue,DFalse,AFalse,11,New York
+"Quantity[1700, ""Days""]",alive,Boy,Asian,23,AB,Neg,STrue,DFalse,AFalse,7,Seattle
+"Quantity[1707, ""Days""]",alive,Boy,Asian,69,B,Neg,SFalse,DTrue,AFalse,10,Atlanta
+"Quantity[1717, ""Days""]",alive,Girl,Indigenious,30,O,Neg,SFalse,DFalse,AFalse,8,Baltimore
+"Quantity[1717, ""Days""]",alive,Boy,Asian,26,AB,Neg,SFalse,DFalse,AFalse,7,Seattle
+"Quantity[1718, ""Days""]",alive,Girl,Indigenious,68,B,Pos,SFalse,DFalse,AFalse,11,New York
+"Quantity[1718, ""Days""]",alive,Girl,White,56,AB,Neg,SFalse,DTrue,ATrue,8,Houston
+"Quantity[1734, ""Days""]",dead,Boy,Indigenious,49,O,Pos,SFalse,DFalse,ATrue,8,Detroit
+"Quantity[1736, ""Days""]",alive,Boy,Indigenious,46,B,Neg,STrue,DFalse,ATrue,10,Houston
+"Quantity[1736, ""Days""]",alive,Girl,Asian,57,B,Neg,SFalse,DTrue,ATrue,5,Seattle
+"Quantity[1739, ""Days""]",alive,Boy,Asian,58,O,Neg,SFalse,DFalse,ATrue,11,Phoenix
+"Quantity[1739, ""Days""]",alive,Girl,Asian,59,O,Pos,SFalse,DFalse,AFalse,6,Seattle
+"Quantity[1739, ""Days""]",alive,Boy,Black,51,AB,Pos,SFalse,DTrue,AFalse,5,Baltimore
+"Quantity[1745, ""Days""]",alive,Girl,White,70,AB,Pos,STrue,DTrue,ATrue,10,San Fransisco
+"Quantity[1745, ""Days""]",alive,Girl,White,61,AB,Pos,SFalse,DFalse,AFalse,6,Detroit
+"Quantity[1746, ""Days""]",alive,Girl,Indigenious,61,B,Neg,SFalse,DFalse,ATrue,8,Phoenix
+"Quantity[1749, ""Days""]",alive,Girl,Asian,65,O,Neg,SFalse,DFalse,ATrue,9,Baltimore
+"Quantity[1770, ""Days""]",alive,Boy,Black,60,AB,Neg,SFalse,DTrue,ATrue,9,Seattle
+"Quantity[1770, ""Days""]",alive,Girl,White,48,B,Pos,STrue,DFalse,AFalse,9,Baltimore
+"Quantity[1795, ""Days""]",alive,Girl,Asian,59,AB,Neg,STrue,DFalse,ATrue,7,New York
+"Quantity[1802, ""Days""]",alive,Boy,Asian,21,B,Neg,STrue,DFalse,ATrue,6,Houston
+"Quantity[1802, ""Days""]",alive,Boy,Asian,55,AB,Pos,STrue,DTrue,AFalse,10,Atlanta
+"Quantity[1803, ""Days""]",alive,Boy,Black,51,B,Pos,STrue,DFalse,ATrue,10,Houston
+"Quantity[1808, ""Days""]",alive,Boy,White,26,B,Pos,STrue,DTrue,ATrue,11,Phoenix
+"Quantity[1808, ""Days""]",alive,Boy,Asian,48,A,Pos,SFalse,DFalse,AFalse,10,Houston
+"Quantity[1815, ""Days""]",alive,Boy,Asian,28,AB,Pos,SFalse,DTrue,AFalse,8,Baltimore
+"Quantity[1820, ""Days""]",dead,Girl,White,37,O,Neg,STrue,DFalse,ATrue,7,Houston
+"Quantity[1839, ""Days""]",alive,Boy,Black,49,A,Pos,STrue,DFalse,AFalse,5,Atlanta
+"Quantity[1861, ""Days""]",alive,Girl,Black,55,B,Pos,STrue,DFalse,ATrue,6,Seattle
+"Quantity[1861, ""Days""]",alive,Boy,White,53,O,Neg,SFalse,DTrue,AFalse,5,Seattle
+"Quantity[1893, ""Days""]",alive,Girl,Indigenious,49,O,Pos,SFalse,DTrue,AFalse,6,Detroit
+"Quantity[1900, ""Days""]",alive,Girl,White,61,A,Neg,SFalse,DTrue,ATrue,5,Detroit
+"Quantity[1920, ""Days""]",alive,Girl,Black,58,A,Pos,SFalse,DTrue,AFalse,7,New York
+"Quantity[1937, ""Days""]",alive,Girl,Indigenious,56,A,Pos,STrue,DTrue,ATrue,11,Detroit
+"Quantity[1947, ""Days""]",alive,Boy,White,34,B,Neg,SFalse,DTrue,AFalse,7,Baltimore
+"Quantity[1947, ""Days""]",alive,Girl,White,27,B,Neg,SFalse,DTrue,ATrue,9,Houston
+"Quantity[1959, ""Days""]",alive,Boy,Black,32,AB,Neg,SFalse,DFalse,AFalse,7,Seattle
+"Quantity[1959, ""Days""]",alive,Boy,Black,24,B,Pos,SFalse,DFalse,AFalse,11,Seattle
+"Quantity[1975, ""Days""]",alive,Boy,Indigenious,40,B,Neg,STrue,DTrue,AFalse,11,Houston
+"Quantity[1988, ""Days""]",alive,Boy,Indigenious,67,O,Pos,SFalse,DTrue,ATrue,6,Houston
+"Quantity[1988, ""Days""]",alive,Boy,Asian,50,B,Neg,SFalse,DTrue,ATrue,9,New York
+"Quantity[1995, ""Days""]",alive,Boy,White,39,O,Pos,SFalse,DFalse,AFalse,11,Phoenix
+"Quantity[1995, ""Days""]",alive,Boy,White,42,O,Neg,STrue,DTrue,ATrue,10,Atlanta
+"Quantity[2001, ""Days""]",alive,Boy,Black,57,B,Neg,STrue,DTrue,AFalse,8,Phoenix
+"Quantity[2016, ""Days""]",alive,Girl,Indigenious,51,A,Neg,STrue,DTrue,AFalse,11,Seattle
+"Quantity[2025, ""Days""]",alive,Boy,Indigenious,29,A,Pos,STrue,DFalse,AFalse,6,New York
+"Quantity[2032, ""Days""]",alive,Boy,Asian,49,B,Pos,STrue,DTrue,ATrue,6,Detroit
+"Quantity[2035, ""Days""]",alive,Boy,White,65,AB,Neg,STrue,DTrue,ATrue,11,Detroit
+"Quantity[2038, ""Days""]",alive,Boy,White,32,O,Neg,SFalse,DFalse,AFalse,9,New York
+"Quantity[2041, ""Days""]",alive,Girl,Asian,46,O,Pos,STrue,DFalse,AFalse,6,Seattle
+"Quantity[2043, ""Days""]",alive,Boy,Asian,34,O,Neg,SFalse,DFalse,ATrue,6,Detroit
+"Quantity[2048, ""Days""]",alive,Boy,Asian,51,B,Pos,SFalse,DFalse,AFalse,10,Baltimore
+"Quantity[2049, ""Days""]",alive,Girl,Asian,42,AB,Pos,STrue,DTrue,AFalse,9,Detroit
+"Quantity[2056, ""Days""]",dead,Boy,Indigenious,37,B,Pos,SFalse,DTrue,ATrue,9,Baltimore
+"Quantity[2060, ""Days""]",alive,Girl,Indigenious,55,O,Pos,SFalse,DFalse,ATrue,11,Phoenix
+"Quantity[2090, ""Days""]",alive,Girl,White,49,A,Pos,STrue,DTrue,ATrue,11,Baltimore
+"Quantity[2090, ""Days""]",alive,Girl,Indigenious,59,B,Neg,STrue,DTrue,AFalse,10,Detroit
+"Quantity[2095, ""Days""]",alive,Girl,Asian,58,A,Neg,STrue,DFalse,AFalse,11,Houston
+"Quantity[2096, ""Days""]",alive,Boy,Asian,37,B,Pos,SFalse,DTrue,AFalse,7,Atlanta
+"Quantity[2096, ""Days""]",alive,Girl,Indigenious,62,B,Neg,STrue,DFalse,AFalse,6,Houston
+"Quantity[2098, ""Days""]",alive,Girl,Black,52,A,Neg,SFalse,DFalse,AFalse,9,Baltimore
+"Quantity[2102, ""Days""]",alive,Girl,White,45,O,Pos,STrue,DFalse,AFalse,8,Baltimore
+"Quantity[2109, ""Days""]",alive,Boy,Indigenious,55,B,Pos,STrue,DTrue,ATrue,7,Seattle
+"Quantity[2135, ""Days""]",alive,Boy,Indigenious,58,O,Neg,STrue,DTrue,ATrue,7,Detroit
+"Quantity[2135, ""Days""]",alive,Girl,Indigenious,41,AB,Neg,SFalse,DFalse,ATrue,11,Seattle
+"Quantity[2147, ""Days""]",alive,Boy,Asian,48,A,Pos,STrue,DFalse,AFalse,5,San Fransisco
+"Quantity[2190, ""Days""]",alive,Girl,Indigenious,50,B,Pos,STrue,DFalse,ATrue,6,San Fransisco
+"Quantity[2211, ""Days""]",alive,Boy,Black,39,B,Neg,SFalse,DTrue,ATrue,7,Houston
+"Quantity[2221, ""Days""]",alive,Girl,Black,29,O,Neg,SFalse,DFalse,ATrue,6,Baltimore
+"Quantity[2223, ""Days""]",alive,Boy,White,53,AB,Pos,STrue,DFalse,ATrue,6,Houston
+"Quantity[2253, ""Days""]",alive,Boy,Asian,39,A,Pos,SFalse,DTrue,ATrue,10,Phoenix
+"Quantity[2253, ""Days""]",alive,Girl,Asian,47,A,Neg,STrue,DTrue,AFalse,9,Atlanta
+"Quantity[2264, ""Days""]",alive,Boy,Indigenious,62,B,Pos,STrue,DFalse,AFalse,10,Houston
+"Quantity[2267, ""Days""]",alive,Boy,Indigenious,57,B,Pos,STrue,DFalse,ATrue,10,Seattle
+"Quantity[2270, ""Days""]",alive,Girl,Asian,22,O,Neg,SFalse,DTrue,AFalse,8,Detroit
+"Quantity[2291, ""Days""]",dead,Girl,Indigenious,42,A,Pos,SFalse,DTrue,ATrue,10,Baltimore
+"Quantity[2291, ""Days""]",alive,Boy,Black,58,A,Neg,STrue,DTrue,AFalse,8,Detroit
+"Quantity[2313, ""Days""]",dead,Boy,Indigenious,48,A,Pos,STrue,DTrue,AFalse,10,Detroit
+"Quantity[2313, ""Days""]",alive,Boy,Asian,55,AB,Neg,SFalse,DFalse,ATrue,6,Atlanta
+"Quantity[2313, ""Days""]",alive,Boy,Asian,42,B,Pos,STrue,DFalse,AFalse,8,Phoenix
+"Quantity[2330, ""Days""]",alive,Girl,Black,25,A,Pos,SFalse,DFalse,ATrue,10,San Fransisco
+"Quantity[2332, ""Days""]",alive,Boy,Asian,70,O,Pos,STrue,DFalse,AFalse,6,San Fransisco
+"Quantity[2335, ""Days""]",alive,Boy,Black,58,B,Neg,STrue,DTrue,AFalse,8,San Fransisco
+"Quantity[2356, ""Days""]",alive,Boy,Indigenious,67,A,Neg,SFalse,DTrue,ATrue,6,San Fransisco
+"Quantity[2367, ""Days""]",alive,Boy,Asian,66,A,Neg,SFalse,DFalse,ATrue,11,Atlanta
+"Quantity[2384, ""Days""]",alive,Girl,Indigenious,49,B,Pos,STrue,DFalse,AFalse,10,Detroit
+"Quantity[2418, ""Days""]",alive,Girl,Black,61,O,Pos,STrue,DTrue,AFalse,11,San Fransisco
+"Quantity[2421, ""Days""]",alive,Girl,Black,63,O,Pos,STrue,DFalse,AFalse,11,Phoenix
+"Quantity[2421, ""Days""]",dead,Girl,Black,62,O,Pos,STrue,DFalse,ATrue,7,Houston
+"Quantity[2430, ""Days""]",alive,Boy,Black,68,AB,Pos,STrue,DTrue,AFalse,9,New York
+"Quantity[2433, ""Days""]",alive,Boy,Black,67,A,Pos,STrue,DTrue,AFalse,11,Atlanta
+"Quantity[2434, ""Days""]",alive,Girl,Black,38,B,Neg,SFalse,DFalse,AFalse,9,Houston
+"Quantity[2462, ""Days""]",alive,Girl,Indigenious,44,B,Pos,STrue,DTrue,AFalse,11,Houston
+"Quantity[2462, ""Days""]",alive,Girl,Black,42,A,Neg,SFalse,DTrue,ATrue,7,Atlanta
+"Quantity[2488, ""Days""]",alive,Boy,Black,59,O,Pos,STrue,DTrue,AFalse,5,Baltimore
+"Quantity[2489, ""Days""]",dead,Girl,Black,57,A,Pos,SFalse,DFalse,ATrue,9,Phoenix
+"Quantity[2497, ""Days""]",alive,Boy,White,41,B,Neg,SFalse,DFalse,ATrue,9,Houston
+"Quantity[2516, ""Days""]",alive,Boy,Indigenious,25,B,Neg,STrue,DFalse,AFalse,6,New York
+"Quantity[2531, ""Days""]",alive,Boy,Indigenious,49,B,Pos,STrue,DTrue,ATrue,9,New York
+"Quantity[2533, ""Days""]",alive,Girl,Indigenious,42,A,Neg,STrue,DFalse,ATrue,7,Seattle
+"Quantity[2575, ""Days""]",alive,Girl,Indigenious,48,O,Pos,STrue,DTrue,AFalse,10,Phoenix
+"Quantity[2585, ""Days""]",alive,Girl,White,24,O,Neg,STrue,DTrue,ATrue,6,New York
+"Quantity[2589, ""Days""]",alive,Girl,White,56,O,Neg,SFalse,DFalse,AFalse,5,Phoenix
+"Quantity[2601, ""Days""]",alive,Girl,Indigenious,64,B,Neg,SFalse,DFalse,AFalse,11,Phoenix
+"Quantity[2607, ""Days""]",alive,Boy,Indigenious,48,B,Neg,SFalse,DFalse,AFalse,8,New York
+"Quantity[2625, ""Days""]",alive,Girl,Black,39,A,Pos,SFalse,DFalse,ATrue,9,Houston
+"Quantity[2630, ""Days""]",alive,Boy,Black,26,B,Neg,SFalse,DTrue,ATrue,8,Houston
+"Quantity[2646, ""Days""]",alive,Boy,Indigenious,27,AB,Neg,STrue,DFalse,AFalse,11,Phoenix
+"Quantity[2654, ""Days""]",alive,Boy,White,30,B,Neg,SFalse,DFalse,AFalse,9,Detroit
+"Quantity[2690, ""Days""]",alive,Boy,Asian,53,B,Pos,STrue,DFalse,ATrue,10,Detroit
+"Quantity[2696, ""Days""]",alive,Boy,White,60,O,Neg,STrue,DFalse,ATrue,6,Atlanta
+"Quantity[2700, ""Days""]",alive,Boy,White,64,B,Neg,SFalse,DTrue,ATrue,10,Seattle
+"Quantity[2712, ""Days""]",alive,Girl,Indigenious,69,AB,Neg,SFalse,DFalse,AFalse,8,San Fransisco
+"Quantity[2714, ""Days""]",alive,Girl,Black,26,O,Pos,STrue,DFalse,ATrue,5,Atlanta
+"Quantity[2716, ""Days""]",alive,Boy,White,69,A,Pos,SFalse,DTrue,ATrue,5,Atlanta
+"Quantity[2716, ""Days""]",alive,Girl,White,20,AB,Neg,SFalse,DFalse,AFalse,8,Atlanta
+"Quantity[2740, ""Days""]",alive,Boy,Indigenious,62,AB,Pos,STrue,DFalse,ATrue,7,Seattle
+"Quantity[2761, ""Days""]",alive,Girl,Asian,40,O,Pos,SFalse,DFalse,AFalse,6,San Fransisco
+"Quantity[2762, ""Days""]",alive,Girl,Black,64,O,Pos,STrue,DTrue,ATrue,11,Seattle
+"Quantity[2765, ""Days""]",alive,Boy,Indigenious,66,A,Pos,STrue,DFalse,ATrue,5,Atlanta
+"Quantity[2789, ""Days""]",alive,Boy,Black,56,B,Pos,SFalse,DFalse,AFalse,8,Houston
+"Quantity[2789, ""Days""]",alive,Boy,Asian,53,A,Neg,SFalse,DTrue,ATrue,5,Detroit
+"Quantity[2812, ""Days""]",alive,Boy,Indigenious,49,A,Neg,STrue,DTrue,ATrue,8,Baltimore
+"Quantity[2815, ""Days""]",alive,Girl,White,56,A,Pos,STrue,DTrue,ATrue,9,New York
+"Quantity[2827, ""Days""]",alive,Girl,Black,49,O,Pos,SFalse,DFalse,AFalse,9,Seattle
+"Quantity[2831, ""Days""]",alive,Girl,White,68,B,Pos,SFalse,DTrue,ATrue,8,Atlanta
+"Quantity[2846, ""Days""]",alive,Boy,Indigenious,63,AB,Neg,SFalse,DFalse,AFalse,10,Atlanta
+"Quantity[2867, ""Days""]",alive,Girl,Asian,67,AB,Pos,STrue,DFalse,ATrue,8,Baltimore
+"Quantity[2871, ""Days""]",alive,Girl,Black,31,AB,Pos,SFalse,DTrue,ATrue,6,Phoenix
+"Quantity[2889, ""Days""]",alive,Girl,Asian,37,A,Neg,STrue,DTrue,ATrue,6,Phoenix
+"Quantity[2909, ""Days""]",alive,Boy,White,66,B,Neg,STrue,DFalse,AFalse,5,Baltimore
+"Quantity[2922, ""Days""]",alive,Boy,Indigenious,27,AB,Neg,SFalse,DTrue,ATrue,9,Seattle
+"Quantity[2936, ""Days""]",alive,Girl,Asian,68,AB,Neg,STrue,DTrue,ATrue,9,New York
+"Quantity[2948, ""Days""]",alive,Boy,Asian,61,A,Neg,STrue,DTrue,AFalse,6,Atlanta
+"Quantity[2955, ""Days""]",alive,Girl,Asian,69,B,Pos,SFalse,DTrue,AFalse,6,Phoenix
+"Quantity[2957, ""Days""]",alive,Boy,White,46,O,Neg,STrue,DTrue,AFalse,8,New York
+"Quantity[2994, ""Days""]",alive,Girl,Indigenious,28,AB,Neg,STrue,DTrue,AFalse,9,San Fransisco
+"Quantity[2994, ""Days""]",alive,Girl,White,23,AB,Neg,SFalse,DTrue,AFalse,5,New York
+"Quantity[2999, ""Days""]",alive,Girl,Black,67,A,Neg,STrue,DFalse,AFalse,8,Baltimore
+"Quantity[3007, ""Days""]",alive,Boy,Asian,49,B,Pos,STrue,DTrue,AFalse,6,New York
+"Quantity[3045, ""Days""]",alive,Girl,White,20,AB,Pos,STrue,DTrue,ATrue,7,Seattle
+"Quantity[3060, ""Days""]",alive,Girl,Asian,51,A,Pos,SFalse,DFalse,AFalse,11,San Fransisco
+"Quantity[3078, ""Days""]",alive,Boy,Indigenious,39,B,Neg,SFalse,DTrue,ATrue,11,Detroit
+"Quantity[3078, ""Days""]",alive,Boy,Black,26,AB,Pos,SFalse,DFalse,AFalse,9,New York
+"Quantity[3084, ""Days""]",alive,Boy,Black,52,A,Neg,STrue,DFalse,AFalse,7,New York
+"Quantity[3084, ""Days""]",alive,Boy,Indigenious,26,O,Neg,STrue,DTrue,AFalse,5,Baltimore
+"Quantity[3110, ""Days""]",alive,Boy,White,20,A,Neg,SFalse,DTrue,AFalse,9,New York
+"Quantity[3130, ""Days""]",alive,Boy,Asian,41,AB,Neg,STrue,DTrue,ATrue,11,Phoenix
+"Quantity[3131, ""Days""]",alive,Boy,White,56,B,Neg,STrue,DFalse,AFalse,11,Atlanta
+"Quantity[3146, ""Days""]",dead,Girl,White,45,B,Pos,STrue,DFalse,ATrue,9,Atlanta
+"Quantity[3147, ""Days""]",alive,Boy,White,60,AB,Pos,SFalse,DTrue,AFalse,8,Houston
+"Quantity[3172, ""Days""]",alive,Boy,White,58,AB,Neg,SFalse,DTrue,ATrue,9,Seattle
+"Quantity[3179, ""Days""]",alive,Boy,White,38,A,Neg,SFalse,DTrue,ATrue,5,Detroit
+"Quantity[3187, ""Days""]",alive,Boy,White,42,A,Neg,SFalse,DTrue,ATrue,5,Houston
+"Quantity[3187, ""Days""]",alive,Girl,Indigenious,67,A,Neg,SFalse,DFalse,ATrue,7,Phoenix
+"Quantity[3255, ""Days""]",alive,Girl,Black,44,O,Pos,STrue,DFalse,AFalse,8,Baltimore
+"Quantity[3260, ""Days""]",alive,Girl,Black,37,O,Neg,SFalse,DFalse,AFalse,10,Houston
+"Quantity[3287, ""Days""]",alive,Boy,Indigenious,51,B,Neg,SFalse,DFalse,AFalse,5,Seattle
+"Quantity[3289, ""Days""]",alive,Girl,Indigenious,20,A,Pos,STrue,DTrue,ATrue,6,Phoenix
+"Quantity[3300, ""Days""]",alive,Girl,Indigenious,37,AB,Pos,SFalse,DFalse,ATrue,5,Baltimore
+"Quantity[3301, ""Days""]",alive,Girl,White,36,O,Pos,STrue,DFalse,ATrue,11,Seattle
+"Quantity[3319, ""Days""]",alive,Boy,White,68,O,Neg,SFalse,DFalse,AFalse,5,Atlanta
+"Quantity[3361, ""Days""]",alive,Boy,Indigenious,31,B,Neg,SFalse,DFalse,ATrue,8,Detroit
+"Quantity[3402, ""Days""]",alive,Girl,White,52,AB,Pos,STrue,DTrue,ATrue,6,Atlanta
+"Quantity[3425, ""Days""]",alive,Boy,Black,62,AB,Pos,STrue,DTrue,AFalse,9,Baltimore
+"Quantity[3434, ""Days""]",alive,Girl,Asian,45,B,Pos,SFalse,DTrue,ATrue,8,Phoenix
+"Quantity[37, ""Days""]",dead,Boy,Black,20,A,Pos,SFalse,DFalse,AFalse,11,San Fransisco
+"Quantity[43, ""Days""]",dead,Boy,White,34,O,Pos,SFalse,DFalse,AFalse,8,Atlanta
+"Quantity[57, ""Days""]",dead,Boy,Asian,27,O,Pos,STrue,DTrue,ATrue,8,New York
+"Quantity[80, ""Days""]",alive,Boy,White,41,O,Neg,SFalse,DTrue,ATrue,5,Atlanta
+"Quantity[82, ""Days""]",alive,Boy,Asian,58,B,Neg,STrue,DFalse,AFalse,7,New York
+"Quantity[93, ""Days""]",alive,Boy,White,31,AB,Neg,SFalse,DTrue,ATrue,7,Houston
+"Quantity[114, ""Days""]",alive,Girl,Black,39,AB,Neg,SFalse,DFalse,ATrue,5,San Fransisco
+"Quantity[116, ""Days""]",alive,Boy,Black,63,AB,Neg,SFalse,DTrue,AFalse,8,Seattle
+"Quantity[116, ""Days""]",alive,Girl,White,37,O,Neg,STrue,DFalse,ATrue,6,Seattle
+"Quantity[119, ""Days""]",alive,Girl,Asian,42,A,Neg,STrue,DFalse,ATrue,7,Phoenix
+"Quantity[152, ""Days""]",alive,Girl,White,22,A,Neg,STrue,DTrue,ATrue,9,San Fransisco
+"Quantity[158, ""Days""]",dead,Girl,Asian,32,AB,Pos,SFalse,DFalse,ATrue,10,San Fransisco
+"Quantity[172, ""Days""]",alive,Boy,Indigenious,38,O,Neg,STrue,DFalse,ATrue,6,Detroit
+"Quantity[200, ""Days""]",alive,Girl,Asian,59,O,Pos,STrue,DTrue,ATrue,5,Baltimore
+"Quantity[206, ""Days""]",dead,Girl,Black,52,O,Neg,SFalse,DTrue,ATrue,5,New York
+"Quantity[211, ""Days""]",alive,Girl,Indigenious,33,AB,Neg,SFalse,DTrue,ATrue,10,San Fransisco
+"Quantity[231, ""Days""]",alive,Boy,Asian,68,O,Neg,STrue,DTrue,AFalse,11,Houston
+"Quantity[280, ""Days""]",alive,Boy,Asian,23,O,Pos,SFalse,DFalse,AFalse,7,Houston
+"Quantity[311, ""Days""]",dead,Boy,Asian,50,AB,Pos,STrue,DFalse,ATrue,6,Atlanta
+"Quantity[312, ""Days""]",alive,Boy,Indigenious,38,AB,Neg,STrue,DFalse,ATrue,11,Seattle
+"Quantity[402, ""Days""]",dead,Boy,Indigenious,59,A,Pos,SFalse,DFalse,AFalse,6,Seattle
+"Quantity[414, ""Days""]",alive,Girl,Asian,57,AB,Pos,STrue,DTrue,ATrue,7,Atlanta
+"Quantity[443, ""Days""]",alive,Boy,Indigenious,69,O,Neg,STrue,DTrue,AFalse,5,San Fransisco
+"Quantity[450, ""Days""]",dead,Girl,White,65,A,Pos,STrue,DFalse,ATrue,7,Detroit
+"Quantity[452, ""Days""]",alive,Boy,Black,21,AB,Neg,STrue,DFalse,ATrue,7,Houston
+"Quantity[479, ""Days""]",alive,Boy,Asian,60,AB,Neg,SFalse,DTrue,ATrue,10,New York
+"Quantity[499, ""Days""]",alive,Girl,Asian,29,A,Neg,STrue,DTrue,AFalse,7,Seattle
+"Quantity[535, ""Days""]",alive,Girl,Black,31,O,Neg,STrue,DFalse,ATrue,9,New York
+"Quantity[642, ""Days""]",alive,Girl,Asian,45,B,Pos,STrue,DTrue,ATrue,8,Houston
+"Quantity[646, ""Days""]",alive,Girl,Black,25,B,Neg,SFalse,DFalse,ATrue,8,San Fransisco
+"Quantity[661, ""Days""]",alive,Boy,Black,67,B,Neg,STrue,DTrue,AFalse,7,New York
+"Quantity[663, ""Days""]",alive,Girl,White,52,A,Neg,STrue,DTrue,ATrue,7,Seattle
+"Quantity[663, ""Days""]",alive,Boy,White,46,B,Pos,STrue,DFalse,ATrue,8,Seattle
+"Quantity[671, ""Days""]",alive,Girl,White,55,B,Pos,STrue,DTrue,ATrue,5,Phoenix
+"Quantity[750, ""Days""]",alive,Boy,Black,31,A,Neg,STrue,DTrue,ATrue,7,New York
+"Quantity[777, ""Days""]",alive,Girl,White,39,A,Neg,SFalse,DFalse,AFalse,9,Atlanta
+"Quantity[863, ""Days""]",alive,Boy,Black,25,AB,Pos,SFalse,DTrue,ATrue,7,Phoenix
+"Quantity[863, ""Days""]",alive,Girl,Black,68,A,Pos,SFalse,DTrue,ATrue,5,New York
+"Quantity[864, ""Days""]",alive,Boy,Asian,38,B,Pos,STrue,DTrue,ATrue,5,Phoenix
+"Quantity[868, ""Days""]",alive,Girl,Black,70,AB,Pos,SFalse,DFalse,AFalse,5,Houston
+"Quantity[934, ""Days""]",alive,Boy,Black,34,AB,Pos,STrue,DTrue,ATrue,11,Phoenix
+"Quantity[951, ""Days""]",alive,Girl,White,19,O,Pos,STrue,DFalse,ATrue,6,Phoenix
+"Quantity[992, ""Days""]",alive,Boy,Asian,36,O,Pos,STrue,DFalse,AFalse,8,San Fransisco
+"Quantity[1001, ""Days""]",dead,Boy,Black,61,O,Pos,STrue,DTrue,ATrue,7,Houston
+"Quantity[1002, ""Days""]",alive,Boy,Black,34,A,Neg,STrue,DFalse,AFalse,8,Seattle
+"Quantity[1109, ""Days""]",alive,Boy,Asian,65,B,Pos,STrue,DTrue,ATrue,11,New York
+"Quantity[1122, ""Days""]",alive,Girl,Indigenious,33,O,Neg,STrue,DFalse,AFalse,6,New York
+"Quantity[1124, ""Days""]",alive,Boy,Asian,29,AB,Pos,STrue,DTrue,AFalse,9,Seattle
+"Quantity[1149, ""Days""]",alive,Boy,Asian,42,O,Neg,STrue,DFalse,AFalse,10,New York
+"Quantity[1178, ""Days""]",alive,Girl,White,52,B,Pos,STrue,DTrue,ATrue,6,Baltimore
+"Quantity[1230, ""Days""]",alive,Boy,Black,46,B,Neg,STrue,DTrue,AFalse,6,New York
+"Quantity[1232, ""Days""]",alive,Boy,Indigenious,62,B,Neg,SFalse,DTrue,ATrue,6,Phoenix
+"Quantity[1242, ""Days""]",alive,Girl,White,50,O,Neg,STrue,DFalse,ATrue,10,Houston
+"Quantity[1275, ""Days""]",dead,Girl,Indigenious,40,O,Pos,SFalse,DTrue,ATrue,8,Baltimore
+"Quantity[1352, ""Days""]",alive,Girl,Black,30,A,Neg,STrue,DTrue,ATrue,11,San Fransisco
+"Quantity[1384, ""Days""]",dead,Boy,Black,55,AB,Pos,STrue,DFalse,AFalse,5,Seattle
+"Quantity[1450, ""Days""]",alive,Boy,White,47,A,Pos,STrue,DTrue,AFalse,9,Houston
+"Quantity[1586, ""Days""]",alive,Girl,Asian,43,AB,Neg,STrue,DTrue,ATrue,7,New York
+"Quantity[1624, ""Days""]",alive,Boy,White,40,A,Pos,SFalse,DFalse,ATrue,6,Detroit
+"Quantity[1668, ""Days""]",alive,Boy,Asian,58,O,Pos,SFalse,DFalse,ATrue,8,San Fransisco
+"Quantity[1681, ""Days""]",alive,Boy,Asian,65,A,Neg,SFalse,DFalse,ATrue,7,Detroit
+"Quantity[1778, ""Days""]",alive,Girl,Asian,43,A,Pos,SFalse,DFalse,ATrue,9,New York
+"Quantity[1795, ""Days""]",alive,Girl,Black,58,O,Neg,STrue,DFalse,AFalse,9,San Fransisco
+"Quantity[1795, ""Days""]",alive,Girl,White,52,AB,Neg,SFalse,DTrue,AFalse,11,Phoenix
+"Quantity[1877, ""Days""]",alive,Boy,Asian,35,B,Neg,STrue,DTrue,AFalse,7,Atlanta
+"Quantity[1989, ""Days""]",alive,Boy,Black,56,B,Pos,SFalse,DFalse,AFalse,8,Detroit
+"Quantity[2049, ""Days""]",alive,Boy,Asian,57,AB,Pos,SFalse,DTrue,AFalse,8,Seattle
+"Quantity[2094, ""Days""]",alive,Boy,Asian,60,O,Neg,SFalse,DTrue,AFalse,6,Phoenix
+"Quantity[2095, ""Days""]",alive,Boy,Asian,56,B,Pos,STrue,DTrue,AFalse,5,Phoenix
+"Quantity[2264, ""Days""]",alive,Boy,Indigenious,50,AB,Neg,SFalse,DTrue,ATrue,8,Detroit
+"Quantity[2291, ""Days""]",alive,Boy,Black,39,O,Neg,SFalse,DFalse,AFalse,6,Phoenix
+"Quantity[2369, ""Days""]",alive,Girl,Asian,63,A,Pos,SFalse,DFalse,ATrue,8,New York
+"Quantity[2369, ""Days""]",dead,Girl,Black,25,O,Pos,SFalse,DTrue,ATrue,7,San Fransisco
+"Quantity[2414, ""Days""]",dead,Girl,Black,63,B,Pos,STrue,DFalse,ATrue,8,Baltimore
+"Quantity[2425, ""Days""]",alive,Girl,White,43,A,Pos,SFalse,DTrue,ATrue,7,Atlanta
+"Quantity[2451, ""Days""]",alive,Boy,White,46,A,Pos,SFalse,DTrue,AFalse,8,Atlanta
+"Quantity[2455, ""Days""]",alive,Boy,Black,57,AB,Neg,SFalse,DFalse,ATrue,6,Detroit
+"Quantity[2557, ""Days""]",dead,Boy,Indigenious,34,O,Pos,STrue,DTrue,ATrue,11,San Fransisco
+"Quantity[2598, ""Days""]",alive,Boy,Indigenious,26,B,Pos,SFalse,DFalse,AFalse,5,Seattle
+"Quantity[2625, ""Days""]",alive,Boy,Asian,29,A,Pos,STrue,DTrue,AFalse,6,New York
+"Quantity[2659, ""Days""]",alive,Girl,Asian,22,A,Pos,STrue,DTrue,ATrue,10,Houston
+"Quantity[2688, ""Days""]",alive,Boy,Black,65,AB,Neg,SFalse,DTrue,AFalse,11,New York
+"Quantity[2726, ""Days""]",alive,Boy,Indigenious,23,A,Pos,STrue,DFalse,AFalse,6,San Fransisco
+"Quantity[2741, ""Days""]",alive,Girl,Indigenious,53,B,Neg,STrue,DFalse,ATrue,11,Phoenix
+"Quantity[2750, ""Days""]",alive,Girl,White,33,A,Neg,SFalse,DFalse,ATrue,7,Seattle
+"Quantity[2909, ""Days""]",alive,Girl,Black,24,B,Pos,STrue,DTrue,AFalse,9,Detroit
+"Quantity[2961, ""Days""]",alive,Boy,Black,61,AB,Neg,SFalse,DTrue,AFalse,11,Detroit
+"Quantity[2994, ""Days""]",alive,Girl,Asian,19,AB,Pos,STrue,DFalse,AFalse,5,Houston
+"Quantity[3019, ""Days""]",alive,Girl,Black,58,A,Neg,STrue,DTrue,AFalse,5,Seattle
+"Quantity[3255, ""Days""]",alive,Boy,Indigenious,41,A,Neg,SFalse,DFalse,AFalse,6,Phoenix
+"Quantity[3281, ""Days""]",alive,Boy,White,48,B,Pos,STrue,DTrue,ATrue,9,New York
+"Quantity[3430, ""Days""]",alive,Boy,Asian,34,O,Pos,SFalse,DTrue,AFalse,8,New York
+"Quantity[1, ""Days""]",alive,Girl,White,19,O,Neg,STrue,DFalse,ATrue,5,Detroit
+"Quantity[2, ""Days""]",dead,Girl,Black,53,A,Neg,STrue,DFalse,ATrue,5,Atlanta
+"Quantity[3, ""Days""]",dead,Girl,White,59,AB,Pos,STrue,DFalse,ATrue,5,San Fransisco
+"Quantity[5, ""Days""]",alive,Girl,Indigenious,68,A,Neg,SFalse,DTrue,AFalse,5,Atlanta
+"Quantity[7, ""Days""]",dead,Girl,White,52,A,Neg,SFalse,DTrue,ATrue,6,San Fransisco
+"Quantity[9, ""Days""]",alive,Boy,Black,46,B,Pos,STrue,DFalse,AFalse,9,Seattle
+"Quantity[10, ""Days""]",dead,Boy,Black,49,A,Pos,STrue,DFalse,ATrue,5,Detroit
+"Quantity[10, ""Days""]",dead,Boy,Asian,58,AB,Pos,SFalse,DTrue,AFalse,6,New York
+"Quantity[17, ""Days""]",alive,Boy,Black,38,A,Pos,STrue,DFalse,AFalse,9,New York
+"Quantity[20, ""Days""]",alive,Boy,Indigenious,33,AB,Neg,SFalse,DTrue,ATrue,6,Baltimore
+"Quantity[21, ""Days""]",dead,Girl,Indigenious,70,B,Neg,STrue,DTrue,ATrue,11,Detroit
+"Quantity[26, ""Days""]",alive,Boy,Black,28,O,Neg,STrue,DTrue,AFalse,5,Detroit
+"Quantity[33, ""Days""]",alive,Boy,Asian,39,AB,Pos,STrue,DFalse,ATrue,10,Atlanta
+"Quantity[43, ""Days""]",alive,Girl,Indigenious,43,B,Pos,STrue,DFalse,AFalse,11,Houston
+"Quantity[43, ""Days""]",alive,Girl,Asian,69,A,Pos,SFalse,DTrue,AFalse,6,Houston
+"Quantity[48, ""Days""]",alive,Girl,White,42,O,Neg,SFalse,DTrue,ATrue,11,Houston
+"Quantity[50, ""Days""]",dead,Girl,Black,43,O,Neg,SFalse,DTrue,ATrue,7,Phoenix
+"Quantity[51, ""Days""]",alive,Girl,Asian,62,B,Neg,STrue,DFalse,AFalse,8,New York
+"Quantity[52, ""Days""]",dead,Girl,Black,35,AB,Neg,STrue,DTrue,AFalse,6,Detroit
+"Quantity[62, ""Days""]",dead,Girl,White,28,O,Neg,SFalse,DFalse,ATrue,9,New York
+"Quantity[62, ""Days""]",alive,Girl,White,48,AB,Pos,SFalse,DFalse,ATrue,10,Houston
+"Quantity[68, ""Days""]",dead,Girl,Black,65,AB,Neg,SFalse,DFalse,AFalse,7,New York
+"Quantity[78, ""Days""]",dead,Girl,Indigenious,69,A,Neg,SFalse,DFalse,AFalse,10,Seattle
+"Quantity[79, ""Days""]",alive,Boy,Asian,68,O,Neg,SFalse,DTrue,AFalse,10,Atlanta
+"Quantity[82, ""Days""]",alive,Girl,Indigenious,35,AB,Neg,SFalse,DFalse,AFalse,8,San Fransisco
+"Quantity[97, ""Days""]",dead,Boy,Black,60,AB,Neg,SFalse,DTrue,AFalse,10,Houston
+"Quantity[104, ""Days""]",dead,Girl,Asian,23,A,Neg,SFalse,DFalse,ATrue,5,San Fransisco
+"Quantity[105, ""Days""]",alive,Boy,White,54,A,Pos,STrue,DFalse,AFalse,10,New York
+"Quantity[112, ""Days""]",alive,Boy,White,47,AB,Pos,STrue,DFalse,ATrue,9,Baltimore
+"Quantity[115, ""Days""]",alive,Boy,White,23,A,Neg,SFalse,DFalse,AFalse,7,Detroit
+"Quantity[124, ""Days""]",alive,Girl,Indigenious,26,A,Pos,SFalse,DFalse,ATrue,10,San Fransisco
+"Quantity[141, ""Days""]",alive,Boy,Black,60,B,Pos,SFalse,DFalse,ATrue,9,Baltimore
+"Quantity[142, ""Days""]",alive,Boy,Black,69,B,Neg,STrue,DTrue,AFalse,6,Phoenix
+"Quantity[143, ""Days""]",dead,Girl,Indigenious,41,AB,Pos,STrue,DFalse,ATrue,7,Atlanta
+"Quantity[150, ""Days""]",alive,Girl,Indigenious,70,B,Pos,SFalse,DTrue,ATrue,5,New York
+"Quantity[154, ""Days""]",dead,Girl,Black,47,O,Neg,SFalse,DTrue,AFalse,6,Phoenix
+"Quantity[162, ""Days""]",alive,Boy,Asian,31,AB,Pos,SFalse,DTrue,AFalse,5,Detroit
+"Quantity[162, ""Days""]",alive,Girl,Black,37,A,Neg,SFalse,DFalse,ATrue,8,New York
+"Quantity[167, ""Days""]",alive,Boy,Asian,29,AB,Neg,STrue,DTrue,AFalse,8,Phoenix
+"Quantity[173, ""Days""]",alive,Girl,Asian,27,AB,Neg,SFalse,DTrue,AFalse,8,New York
+"Quantity[193, ""Days""]",alive,Boy,Indigenious,60,AB,Pos,SFalse,DTrue,ATrue,6,San Fransisco
+"Quantity[205, ""Days""]",alive,Boy,Asian,23,O,Pos,SFalse,DFalse,ATrue,9,Seattle
+"Quantity[209, ""Days""]",dead,Girl,Asian,41,O,Pos,SFalse,DFalse,AFalse,7,Phoenix
+"Quantity[231, ""Days""]",alive,Girl,White,45,A,Neg,SFalse,DTrue,AFalse,11,Atlanta
+"Quantity[238, ""Days""]",alive,Girl,Black,57,A,Neg,SFalse,DTrue,ATrue,5,Phoenix
+"Quantity[239, ""Days""]",alive,Girl,Asian,49,AB,Pos,SFalse,DTrue,ATrue,11,Phoenix
+"Quantity[246, ""Days""]",alive,Boy,White,42,B,Pos,STrue,DTrue,ATrue,11,New York
+"Quantity[246, ""Days""]",alive,Boy,Black,54,AB,Pos,SFalse,DTrue,ATrue,6,Detroit
+"Quantity[250, ""Days""]",alive,Boy,Asian,34,B,Pos,SFalse,DTrue,AFalse,5,Baltimore
+"Quantity[253, ""Days""]",alive,Girl,Indigenious,21,O,Neg,SFalse,DTrue,ATrue,9,Baltimore
+"Quantity[260, ""Days""]",alive,Girl,White,22,O,Pos,SFalse,DFalse,ATrue,9,Atlanta
+"Quantity[269, ""Days""]",alive,Girl,Asian,25,AB,Neg,STrue,DFalse,AFalse,5,Detroit
+"Quantity[271, ""Days""]",alive,Boy,Indigenious,44,O,Neg,STrue,DTrue,AFalse,8,Houston
+"Quantity[273, ""Days""]",dead,Girl,White,57,B,Neg,STrue,DFalse,ATrue,5,San Fransisco
+"Quantity[280, ""Days""]",alive,Boy,Asian,33,A,Neg,SFalse,DFalse,ATrue,9,Atlanta
+"Quantity[297, ""Days""]",dead,Girl,White,58,B,Pos,SFalse,DTrue,AFalse,7,Phoenix
+"Quantity[306, ""Days""]",alive,Boy,Black,51,O,Pos,SFalse,DFalse,ATrue,6,Detroit
+"Quantity[331, ""Days""]",alive,Girl,Indigenious,45,B,Neg,SFalse,DTrue,ATrue,7,Detroit
+"Quantity[337, ""Days""]",alive,Girl,White,63,O,Neg,SFalse,DFalse,ATrue,6,Phoenix
+"Quantity[341, ""Days""]",alive,Boy,Asian,24,AB,Neg,STrue,DFalse,AFalse,5,Houston
+"Quantity[341, ""Days""]",alive,Girl,White,48,A,Pos,SFalse,DTrue,AFalse,8,Seattle
+"Quantity[347, ""Days""]",alive,Girl,Black,27,O,Pos,STrue,DFalse,AFalse,9,Baltimore
+"Quantity[366, ""Days""]",dead,Girl,Asian,28,A,Pos,STrue,DFalse,ATrue,6,Phoenix
+"Quantity[377, ""Days""]",alive,Girl,Black,60,A,Neg,SFalse,DTrue,ATrue,11,Detroit
+"Quantity[387, ""Days""]",alive,Girl,Indigenious,45,A,Pos,SFalse,DFalse,ATrue,11,Seattle
+"Quantity[388, ""Days""]",alive,Boy,White,69,B,Neg,SFalse,DFalse,AFalse,8,Seattle
+"Quantity[399, ""Days""]",alive,Boy,Indigenious,53,O,Neg,SFalse,DFalse,ATrue,9,Atlanta
+"Quantity[417, ""Days""]",alive,Boy,White,62,O,Pos,SFalse,DFalse,AFalse,10,Houston
+"Quantity[424, ""Days""]",alive,Girl,Black,40,A,Pos,SFalse,DTrue,ATrue,11,Baltimore
+"Quantity[428, ""Days""]",alive,Girl,Indigenious,20,O,Neg,STrue,DTrue,AFalse,10,Phoenix
+"Quantity[448, ""Days""]",alive,Girl,Indigenious,50,O,Neg,SFalse,DFalse,ATrue,5,Houston
+"Quantity[448, ""Days""]",alive,Girl,Asian,66,O,Pos,STrue,DFalse,AFalse,8,Atlanta
+"Quantity[448, ""Days""]",alive,Girl,Black,54,B,Neg,SFalse,DFalse,ATrue,7,San Fransisco
+"Quantity[459, ""Days""]",alive,Boy,Indigenious,54,B,Pos,SFalse,DTrue,ATrue,7,Detroit
+"Quantity[470, ""Days""]",dead,Girl,White,68,AB,Neg,SFalse,DTrue,ATrue,8,Atlanta
+"Quantity[490, ""Days""]",dead,Boy,Black,60,AB,Neg,STrue,DTrue,AFalse,11,Seattle
+"Quantity[507, ""Days""]",alive,Girl,Indigenious,54,O,Neg,SFalse,DTrue,AFalse,11,San Fransisco
+"Quantity[512, ""Days""]",alive,Boy,Indigenious,45,A,Pos,SFalse,DTrue,ATrue,11,Phoenix
+"Quantity[549, ""Days""]",alive,Girl,Asian,56,B,Pos,SFalse,DFalse,ATrue,9,Atlanta
+"Quantity[593, ""Days""]",alive,Boy,Indigenious,69,B,Pos,STrue,DTrue,AFalse,6,Atlanta
+"Quantity[604, ""Days""]",alive,Girl,Black,61,O,Pos,STrue,DTrue,ATrue,5,San Fransisco
+"Quantity[614, ""Days""]",dead,Girl,White,22,O,Pos,SFalse,DFalse,AFalse,7,San Fransisco
+"Quantity[642, ""Days""]",alive,Girl,Asian,32,O,Pos,SFalse,DFalse,AFalse,5,Baltimore
+"Quantity[652, ""Days""]",alive,Boy,Indigenious,40,A,Pos,STrue,DTrue,AFalse,9,San Fransisco
+"Quantity[654, ""Days""]",alive,Boy,Indigenious,63,A,Neg,STrue,DFalse,ATrue,10,Houston
+"Quantity[660, ""Days""]",alive,Boy,Black,46,A,Pos,STrue,DFalse,AFalse,7,New York
+"Quantity[670, ""Days""]",alive,Boy,Black,34,AB,Neg,STrue,DTrue,AFalse,9,Seattle
+"Quantity[675, ""Days""]",alive,Girl,White,36,A,Neg,STrue,DTrue,AFalse,10,Phoenix
+"Quantity[678, ""Days""]",alive,Boy,Black,19,O,Neg,STrue,DTrue,ATrue,11,Houston
+"Quantity[693, ""Days""]",alive,Girl,Indigenious,52,O,Pos,STrue,DFalse,ATrue,5,Detroit
+"Quantity[715, ""Days""]",alive,Girl,Indigenious,21,B,Neg,STrue,DTrue,ATrue,11,Seattle
+"Quantity[731, ""Days""]",alive,Girl,Asian,41,AB,Neg,STrue,DFalse,AFalse,10,Phoenix
+"Quantity[750, ""Days""]",alive,Boy,White,46,O,Pos,STrue,DTrue,ATrue,9,San Fransisco
+"Quantity[753, ""Days""]",alive,Boy,Black,67,B,Pos,SFalse,DTrue,ATrue,10,New York
+"Quantity[757, ""Days""]",alive,Girl,Asian,59,A,Neg,STrue,DTrue,ATrue,10,New York
+"Quantity[759, ""Days""]",alive,Girl,Black,61,A,Pos,STrue,DFalse,AFalse,8,Atlanta
+"Quantity[762, ""Days""]",alive,Girl,Black,46,AB,Pos,STrue,DFalse,AFalse,10,Houston
+"Quantity[772, ""Days""]",alive,Girl,Indigenious,60,O,Pos,STrue,DFalse,AFalse,8,Detroit
+"Quantity[772, ""Days""]",alive,Boy,White,25,A,Pos,SFalse,DTrue,AFalse,7,Baltimore
+"Quantity[777, ""Days""]",alive,Girl,Black,65,A,Pos,SFalse,DFalse,AFalse,10,Seattle
+"Quantity[777, ""Days""]",alive,Boy,Asian,40,A,Neg,SFalse,DFalse,AFalse,9,Detroit
+"Quantity[793, ""Days""]",dead,Girl,Asian,55,A,Neg,SFalse,DFalse,AFalse,8,Houston
+"Quantity[840, ""Days""]",dead,Girl,Black,31,O,Pos,STrue,DFalse,ATrue,10,San Fransisco
+"Quantity[852, ""Days""]",dead,Boy,Asian,65,O,Neg,STrue,DTrue,ATrue,5,Houston
+"Quantity[900, ""Days""]",alive,Girl,Black,32,B,Pos,SFalse,DFalse,ATrue,6,San Fransisco
+"Quantity[907, ""Days""]",alive,Boy,Indigenious,59,B,Neg,SFalse,DFalse,ATrue,5,New York
+"Quantity[907, ""Days""]",alive,Girl,Black,41,B,Neg,STrue,DFalse,AFalse,6,Houston
+"Quantity[909, ""Days""]",alive,Girl,Black,45,O,Neg,SFalse,DTrue,ATrue,10,San Fransisco
+"Quantity[915, ""Days""]",alive,Girl,Black,30,B,Pos,STrue,DTrue,ATrue,6,New York
+"Quantity[963, ""Days""]",alive,Girl,Asian,31,A,Neg,SFalse,DFalse,AFalse,9,Detroit
+"Quantity[995, ""Days""]",alive,Boy,Black,60,B,Neg,SFalse,DFalse,ATrue,8,Detroit
+"Quantity[995, ""Days""]",alive,Boy,Black,41,B,Pos,SFalse,DTrue,AFalse,11,Detroit
+"Quantity[1012, ""Days""]",alive,Boy,White,53,O,Pos,STrue,DFalse,AFalse,10,Phoenix
+"Quantity[1013, ""Days""]",dead,Girl,Black,58,AB,Pos,STrue,DFalse,ATrue,6,Houston
+"Quantity[1051, ""Days""]",alive,Boy,Indigenious,55,A,Pos,STrue,DTrue,AFalse,5,Seattle
+"Quantity[1072, ""Days""]",alive,Boy,White,61,AB,Pos,SFalse,DFalse,AFalse,8,San Fransisco
+"Quantity[1086, ""Days""]",alive,Boy,White,25,O,Pos,STrue,DTrue,ATrue,11,Atlanta
+"Quantity[1114, ""Days""]",alive,Girl,Black,27,O,Neg,STrue,DTrue,ATrue,5,Phoenix
+"Quantity[1125, ""Days""]",alive,Boy,Asian,20,AB,Pos,SFalse,DTrue,ATrue,10,Houston
+"Quantity[1164, ""Days""]",dead,Boy,Asian,68,B,Pos,STrue,DFalse,AFalse,6,Baltimore
+"Quantity[1196, ""Days""]",alive,Boy,Black,61,A,Pos,SFalse,DFalse,AFalse,8,Atlanta
+"Quantity[1229, ""Days""]",alive,Boy,White,54,AB,Pos,STrue,DTrue,ATrue,8,Baltimore
+"Quantity[1242, ""Days""]",alive,Boy,Asian,44,B,Pos,SFalse,DTrue,AFalse,10,New York
+"Quantity[1252, ""Days""]",alive,Boy,Black,29,A,Pos,SFalse,DFalse,AFalse,8,Atlanta
+"Quantity[1254, ""Days""]",alive,Boy,White,27,B,Pos,SFalse,DFalse,AFalse,6,Atlanta
+"Quantity[1254, ""Days""]",alive,Boy,White,19,O,Pos,STrue,DFalse,AFalse,6,Atlanta
+"Quantity[1269, ""Days""]",alive,Girl,Asian,30,O,Pos,STrue,DTrue,ATrue,8,Phoenix
+"Quantity[1291, ""Days""]",alive,Boy,White,21,O,Pos,STrue,DTrue,AFalse,10,Houston
+"Quantity[1291, ""Days""]",alive,Girl,Asian,52,AB,Neg,STrue,DTrue,AFalse,10,Detroit
+"Quantity[1299, ""Days""]",alive,Girl,Indigenious,60,O,Pos,STrue,DFalse,ATrue,10,Seattle
+"Quantity[1304, ""Days""]",alive,Boy,Indigenious,29,O,Neg,SFalse,DFalse,ATrue,6,Baltimore
+"Quantity[1309, ""Days""]",alive,Girl,Asian,59,O,Neg,SFalse,DFalse,ATrue,11,Baltimore
+"Quantity[1315, ""Days""]",alive,Boy,Asian,26,O,Pos,SFalse,DFalse,AFalse,9,Seattle
+"Quantity[1326, ""Days""]",dead,Girl,White,60,O,Neg,SFalse,DFalse,ATrue,11,Phoenix
+"Quantity[1331, ""Days""]",dead,Girl,White,21,AB,Neg,SFalse,DTrue,ATrue,6,Houston
+"Quantity[1350, ""Days""]",alive,Boy,Asian,43,A,Pos,SFalse,DTrue,ATrue,5,New York
+"Quantity[1365, ""Days""]",alive,Boy,White,39,B,Pos,SFalse,DTrue,ATrue,6,Phoenix
+"Quantity[1368, ""Days""]",alive,Girl,White,58,O,Pos,SFalse,DFalse,ATrue,8,San Fransisco
+"Quantity[1368, ""Days""]",alive,Boy,White,63,O,Pos,STrue,DFalse,ATrue,6,Phoenix
+"Quantity[1427, ""Days""]",alive,Girl,Indigenious,58,O,Pos,STrue,DFalse,AFalse,5,Seattle
+"Quantity[1435, ""Days""]",alive,Girl,Indigenious,64,B,Neg,STrue,DTrue,ATrue,10,Seattle
+"Quantity[1449, ""Days""]",alive,Girl,Indigenious,19,A,Neg,STrue,DFalse,ATrue,8,New York
+"Quantity[1473, ""Days""]",dead,Boy,Black,21,AB,Pos,SFalse,DFalse,ATrue,5,Houston
+"Quantity[1497, ""Days""]",alive,Girl,Black,27,O,Neg,STrue,DFalse,ATrue,10,Detroit
+"Quantity[1594, ""Days""]",alive,Girl,Indigenious,55,A,Pos,STrue,DTrue,AFalse,11,San Fransisco
+"Quantity[1605, ""Days""]",alive,Boy,Indigenious,67,AB,Neg,SFalse,DTrue,AFalse,7,Phoenix
+"Quantity[1606, ""Days""]",alive,Girl,Indigenious,23,B,Neg,SFalse,DTrue,AFalse,10,Seattle
+"Quantity[1611, ""Days""]",alive,Girl,Asian,19,AB,Pos,STrue,DFalse,AFalse,9,Detroit
+"Quantity[1623, ""Days""]",alive,Girl,Asian,48,AB,Pos,SFalse,DFalse,AFalse,10,Detroit
+"Quantity[1638, ""Days""]",alive,Girl,White,43,AB,Neg,STrue,DTrue,ATrue,6,Detroit
+"Quantity[1673, ""Days""]",alive,Boy,Black,45,O,Neg,STrue,DFalse,AFalse,6,Atlanta
+"Quantity[1681, ""Days""]",alive,Girl,Indigenious,23,A,Pos,STrue,DTrue,ATrue,9,Phoenix
+"Quantity[1698, ""Days""]",alive,Girl,Indigenious,37,B,Neg,STrue,DFalse,AFalse,8,Baltimore
+"Quantity[1699, ""Days""]",alive,Boy,Black,36,A,Pos,STrue,DFalse,ATrue,5,Phoenix
+"Quantity[1702, ""Days""]",alive,Boy,White,61,O,Pos,SFalse,DFalse,AFalse,10,Phoenix
+"Quantity[1702, ""Days""]",alive,Boy,Black,56,A,Pos,SFalse,DFalse,ATrue,5,New York
+"Quantity[1707, ""Days""]",alive,Girl,Indigenious,34,O,Neg,STrue,DTrue,ATrue,8,Houston
+"Quantity[1732, ""Days""]",alive,Girl,Black,50,B,Neg,STrue,DFalse,ATrue,5,Seattle
+"Quantity[1736, ""Days""]",alive,Boy,Asian,27,AB,Pos,STrue,DFalse,AFalse,9,Phoenix
+"Quantity[1746, ""Days""]",alive,Boy,White,21,AB,Neg,SFalse,DTrue,AFalse,10,Seattle
+"Quantity[1777, ""Days""]",dead,Boy,Black,27,A,Pos,SFalse,DTrue,AFalse,6,Atlanta
+"Quantity[1778, ""Days""]",alive,Girl,Asian,64,B,Neg,SFalse,DTrue,ATrue,9,Atlanta
+"Quantity[1785, ""Days""]",alive,Girl,Asian,46,A,Pos,SFalse,DFalse,AFalse,9,Detroit
+"Quantity[1786, ""Days""]",alive,Boy,Asian,59,A,Neg,STrue,DTrue,AFalse,7,New York
+"Quantity[1786, ""Days""]",alive,Girl,Indigenious,34,B,Pos,SFalse,DFalse,AFalse,7,Seattle
+"Quantity[1791, ""Days""]",alive,Boy,Asian,22,AB,Neg,SFalse,DFalse,ATrue,5,Baltimore
+"Quantity[1795, ""Days""]",alive,Girl,Indigenious,51,O,Pos,STrue,DTrue,ATrue,10,Seattle
+"Quantity[1815, ""Days""]",alive,Girl,White,52,B,Pos,STrue,DTrue,ATrue,8,San Fransisco
+"Quantity[1835, ""Days""]",dead,Girl,Asian,50,B,Neg,SFalse,DTrue,ATrue,10,San Fransisco
+"Quantity[1875, ""Days""]",alive,Girl,White,23,O,Pos,SFalse,DTrue,AFalse,10,Phoenix
+"Quantity[1877, ""Days""]",dead,Girl,Black,61,AB,Pos,STrue,DTrue,AFalse,5,Houston
+"Quantity[1893, ""Days""]",alive,Boy,Indigenious,30,AB,Neg,STrue,DTrue,ATrue,11,Baltimore
+"Quantity[1914, ""Days""]",alive,Boy,Asian,26,O,Neg,SFalse,DTrue,ATrue,8,San Fransisco
+"Quantity[1939, ""Days""]",alive,Girl,Asian,46,AB,Pos,STrue,DTrue,ATrue,7,Baltimore
+"Quantity[1940, ""Days""]",dead,Girl,Black,69,O,Pos,STrue,DFalse,ATrue,6,Detroit
+"Quantity[1942, ""Days""]",alive,Boy,Black,22,AB,Pos,SFalse,DFalse,AFalse,8,New York
+"Quantity[1962, ""Days""]",alive,Boy,Asian,23,B,Neg,STrue,DTrue,AFalse,11,New York
+"Quantity[1966, ""Days""]",alive,Girl,Indigenious,64,B,Neg,SFalse,DTrue,ATrue,6,Atlanta
+"Quantity[1973, ""Days""]",alive,Boy,Asian,51,O,Pos,STrue,DFalse,AFalse,6,San Fransisco
+"Quantity[1980, ""Days""]",alive,Boy,Black,24,A,Neg,SFalse,DFalse,ATrue,5,Houston
+"Quantity[2001, ""Days""]",alive,Boy,Indigenious,60,O,Pos,SFalse,DTrue,AFalse,8,Baltimore
+"Quantity[2014, ""Days""]",alive,Boy,Black,70,O,Pos,SFalse,DFalse,ATrue,6,Atlanta
+"Quantity[2014, ""Days""]",alive,Girl,Black,69,B,Pos,STrue,DTrue,ATrue,11,Seattle
+"Quantity[2025, ""Days""]",alive,Boy,Indigenious,22,AB,Neg,STrue,DTrue,AFalse,5,New York
+"Quantity[2034, ""Days""]",alive,Girl,Indigenious,48,O,Neg,SFalse,DFalse,ATrue,11,Detroit
+"Quantity[2034, ""Days""]",dead,Boy,Black,45,B,Neg,STrue,DTrue,AFalse,6,Houston
+"Quantity[2034, ""Days""]",alive,Boy,Black,44,O,Neg,STrue,DTrue,AFalse,9,Seattle
+"Quantity[2038, ""Days""]",alive,Boy,White,25,O,Neg,STrue,DTrue,ATrue,7,San Fransisco
+"Quantity[2048, ""Days""]",alive,Girl,Black,47,O,Neg,SFalse,DFalse,ATrue,6,San Fransisco
+"Quantity[2060, ""Days""]",alive,Boy,Asian,23,AB,Neg,SFalse,DTrue,ATrue,5,Phoenix
+"Quantity[2083, ""Days""]",alive,Boy,Asian,48,B,Pos,STrue,DFalse,AFalse,6,Houston
+"Quantity[2094, ""Days""]",alive,Boy,Indigenious,45,B,Pos,STrue,DFalse,AFalse,10,New York
+"Quantity[2102, ""Days""]",alive,Boy,White,50,AB,Neg,SFalse,DTrue,ATrue,10,Baltimore
+"Quantity[2108, ""Days""]",dead,Boy,Indigenious,29,B,Pos,STrue,DFalse,ATrue,5,San Fransisco
+"Quantity[2129, ""Days""]",alive,Girl,White,52,AB,Neg,STrue,DFalse,AFalse,9,Seattle
+"Quantity[2193, ""Days""]",alive,Boy,Black,66,AB,Pos,STrue,DFalse,AFalse,10,Phoenix
+"Quantity[2211, ""Days""]",alive,Boy,Indigenious,53,O,Pos,SFalse,DTrue,AFalse,9,Houston
+"Quantity[2221, ""Days""]",alive,Boy,Indigenious,56,O,Neg,SFalse,DTrue,AFalse,5,Baltimore
+"Quantity[2223, ""Days""]",alive,Boy,Indigenious,64,AB,Pos,STrue,DFalse,AFalse,6,San Fransisco
+"Quantity[2233, ""Days""]",alive,Boy,Black,68,A,Pos,SFalse,DFalse,ATrue,7,Baltimore
+"Quantity[2236, ""Days""]",alive,Girl,White,70,AB,Neg,STrue,DFalse,AFalse,9,Atlanta
+"Quantity[2252, ""Days""]",alive,Girl,Indigenious,36,B,Neg,SFalse,DTrue,AFalse,8,Atlanta
+"Quantity[2252, ""Days""]",alive,Boy,Indigenious,19,B,Neg,SFalse,DTrue,AFalse,7,Atlanta
+"Quantity[2271, ""Days""]",alive,Boy,Indigenious,64,A,Neg,SFalse,DTrue,ATrue,9,Atlanta
+"Quantity[2301, ""Days""]",dead,Girl,Asian,25,A,Pos,STrue,DTrue,ATrue,9,Houston
+"Quantity[2312, ""Days""]",alive,Girl,Asian,39,AB,Neg,SFalse,DFalse,AFalse,5,Baltimore
+"Quantity[2332, ""Days""]",alive,Boy,Black,40,AB,Pos,SFalse,DTrue,ATrue,11,San Fransisco
+"Quantity[2335, ""Days""]",alive,Boy,Black,67,O,Pos,SFalse,DFalse,AFalse,9,Baltimore
+"Quantity[2356, ""Days""]",alive,Girl,Black,20,B,Pos,SFalse,DTrue,ATrue,9,Phoenix
+"Quantity[2392, ""Days""]",alive,Girl,White,39,AB,Neg,SFalse,DFalse,ATrue,10,Seattle
+"Quantity[2405, ""Days""]",alive,Girl,White,54,O,Pos,SFalse,DTrue,AFalse,7,Baltimore
+"Quantity[2405, ""Days""]",alive,Boy,Black,42,A,Neg,STrue,DFalse,ATrue,8,Houston
+"Quantity[2421, ""Days""]",alive,Girl,Black,58,AB,Neg,STrue,DTrue,AFalse,6,San Fransisco
+"Quantity[2433, ""Days""]",alive,Girl,White,42,AB,Neg,STrue,DTrue,ATrue,9,Baltimore
+"Quantity[2462, ""Days""]",alive,Girl,Black,58,O,Pos,SFalse,DTrue,AFalse,7,Phoenix
+"Quantity[2486, ""Days""]",alive,Boy,Indigenious,27,AB,Neg,SFalse,DFalse,AFalse,6,New York
+"Quantity[2488, ""Days""]",alive,Boy,Black,63,A,Neg,STrue,DFalse,AFalse,10,Houston
+"Quantity[2504, ""Days""]",alive,Boy,Indigenious,43,O,Neg,STrue,DTrue,AFalse,6,Atlanta
+"Quantity[2529, ""Days""]",alive,Girl,Indigenious,29,B,Pos,STrue,DTrue,ATrue,5,Detroit
+"Quantity[2529, ""Days""]",alive,Girl,White,29,A,Neg,STrue,DFalse,ATrue,9,Detroit
+"Quantity[2531, ""Days""]",alive,Boy,Black,30,A,Pos,SFalse,DFalse,ATrue,9,Seattle
+"Quantity[2556, ""Days""]",alive,Boy,Black,26,B,Neg,SFalse,DFalse,ATrue,7,New York
+"Quantity[2567, ""Days""]",dead,Boy,White,63,AB,Pos,STrue,DFalse,AFalse,6,Baltimore
+"Quantity[2632, ""Days""]",alive,Girl,Indigenious,27,AB,Neg,STrue,DFalse,AFalse,11,Detroit
+"Quantity[2638, ""Days""]",alive,Girl,Black,31,A,Pos,STrue,DTrue,ATrue,8,Atlanta
+"Quantity[2638, ""Days""]",alive,Girl,Indigenious,53,A,Neg,STrue,DFalse,ATrue,10,Seattle
+"Quantity[2654, ""Days""]",alive,Boy,Asian,70,AB,Neg,SFalse,DFalse,AFalse,9,Phoenix
+"Quantity[2659, ""Days""]",alive,Girl,Indigenious,63,O,Pos,SFalse,DFalse,AFalse,8,Detroit
+"Quantity[2663, ""Days""]",alive,Girl,Indigenious,42,A,Neg,STrue,DTrue,AFalse,9,New York
+"Quantity[2670, ""Days""]",alive,Boy,Black,57,B,Pos,SFalse,DTrue,AFalse,7,Baltimore
+"Quantity[2680, ""Days""]",alive,Boy,Indigenious,27,A,Pos,SFalse,DFalse,AFalse,6,Atlanta
+"Quantity[2700, ""Days""]",alive,Boy,Asian,55,O,Pos,SFalse,DFalse,ATrue,8,Seattle
+"Quantity[2701, ""Days""]",alive,Girl,Indigenious,20,O,Pos,STrue,DTrue,AFalse,8,Seattle
+"Quantity[2705, ""Days""]",alive,Boy,Asian,69,A,Pos,SFalse,DFalse,AFalse,6,Houston
+"Quantity[2726, ""Days""]",alive,Girl,Black,26,AB,Neg,STrue,DTrue,AFalse,6,Baltimore
+"Quantity[2750, ""Days""]",alive,Boy,Black,22,B,Neg,SFalse,DTrue,AFalse,5,Houston
+"Quantity[2759, ""Days""]",alive,Boy,White,69,AB,Neg,SFalse,DTrue,ATrue,9,Atlanta
+"Quantity[2768, ""Days""]",alive,Girl,Black,62,O,Neg,STrue,DTrue,ATrue,5,Phoenix
+"Quantity[2783, ""Days""]",alive,Boy,Indigenious,50,A,Pos,STrue,DTrue,ATrue,9,San Fransisco
+"Quantity[2795, ""Days""]",dead,Boy,Indigenious,55,A,Neg,STrue,DFalse,ATrue,8,Seattle
+"Quantity[2870, ""Days""]",alive,Girl,Indigenious,19,A,Pos,SFalse,DTrue,ATrue,8,Baltimore
+"Quantity[2871, ""Days""]",alive,Boy,White,33,A,Pos,STrue,DTrue,AFalse,8,Phoenix
+"Quantity[2876, ""Days""]",alive,Boy,Black,59,B,Neg,STrue,DFalse,AFalse,8,Atlanta
+"Quantity[2900, ""Days""]",alive,Boy,White,69,A,Pos,SFalse,DTrue,ATrue,10,Seattle
+"Quantity[2906, ""Days""]",alive,Girl,Black,62,O,Neg,SFalse,DTrue,ATrue,9,Atlanta
+"Quantity[2918, ""Days""]",alive,Boy,Black,31,B,Pos,STrue,DTrue,ATrue,6,Baltimore
+"Quantity[2948, ""Days""]",alive,Boy,Asian,61,A,Neg,SFalse,DTrue,AFalse,6,New York
+"Quantity[2993, ""Days""]",alive,Boy,Asian,55,O,Neg,STrue,DTrue,ATrue,5,Baltimore
+"Quantity[3028, ""Days""]",alive,Boy,White,68,B,Pos,SFalse,DFalse,AFalse,11,New York
+"Quantity[3042, ""Days""]",alive,Girl,White,51,O,Pos,STrue,DTrue,ATrue,9,Baltimore
+"Quantity[3063, ""Days""]",alive,Girl,Indigenious,32,AB,Neg,SFalse,DTrue,AFalse,6,Detroit
+"Quantity[3063, ""Days""]",alive,Boy,Indigenious,46,O,Neg,STrue,DFalse,ATrue,5,San Fransisco
+"Quantity[3072, ""Days""]",alive,Boy,Indigenious,62,O,Pos,STrue,DTrue,AFalse,10,Houston
+"Quantity[3077, ""Days""]",alive,Girl,Black,35,O,Pos,SFalse,DTrue,AFalse,9,Seattle
+"Quantity[3084, ""Days""]",alive,Boy,White,44,B,Pos,SFalse,DTrue,ATrue,5,Atlanta
+"Quantity[3086, ""Days""]",alive,Girl,White,25,AB,Pos,SFalse,DFalse,ATrue,7,Atlanta
+"Quantity[3096, ""Days""]",alive,Boy,White,20,O,Pos,SFalse,DFalse,ATrue,11,New York
+"Quantity[3102, ""Days""]",alive,Girl,White,42,B,Neg,SFalse,DTrue,ATrue,5,Seattle
+"Quantity[3106, ""Days""]",alive,Boy,Black,44,O,Pos,STrue,DFalse,ATrue,7,San Fransisco
+"Quantity[3116, ""Days""]",alive,Boy,Asian,40,O,Pos,STrue,DFalse,ATrue,8,Phoenix
+"Quantity[3124, ""Days""]",alive,Boy,Indigenious,64,A,Neg,SFalse,DFalse,AFalse,9,Baltimore
+"Quantity[3142, ""Days""]",alive,Girl,White,64,O,Pos,STrue,DTrue,ATrue,6,Atlanta
+"Quantity[3145, ""Days""]",alive,Boy,White,36,A,Neg,SFalse,DFalse,AFalse,10,Detroit
+"Quantity[3145, ""Days""]",alive,Girl,White,43,A,Neg,STrue,DTrue,AFalse,7,Detroit
+"Quantity[3172, ""Days""]",alive,Boy,Asian,66,O,Pos,SFalse,DFalse,ATrue,9,Seattle
+"Quantity[3173, ""Days""]",alive,Girl,Asian,55,O,Neg,STrue,DFalse,ATrue,10,New York
+"Quantity[3175, ""Days""]",alive,Girl,Asian,50,A,Neg,STrue,DTrue,AFalse,10,Seattle
+"Quantity[3186, ""Days""]",alive,Boy,Asian,52,O,Pos,STrue,DTrue,ATrue,10,Seattle
+"Quantity[3202, ""Days""]",alive,Boy,Indigenious,56,B,Neg,SFalse,DFalse,AFalse,5,San Fransisco
+"Quantity[3215, ""Days""]",alive,Boy,Indigenious,24,B,Neg,SFalse,DTrue,AFalse,8,Phoenix
+"Quantity[3224, ""Days""]",alive,Boy,Black,27,B,Pos,STrue,DTrue,ATrue,8,Detroit
+"Quantity[3229, ""Days""]",alive,Girl,Indigenious,55,O,Neg,SFalse,DFalse,ATrue,5,Houston
+"Quantity[3265, ""Days""]",alive,Boy,Asian,35,O,Neg,SFalse,DFalse,AFalse,8,Atlanta
+"Quantity[3300, ""Days""]",alive,Girl,Indigenious,27,A,Pos,SFalse,DTrue,ATrue,7,Seattle
+"Quantity[3325, ""Days""]",alive,Girl,Black,50,AB,Neg,STrue,DFalse,AFalse,11,Phoenix
+"Quantity[3360, ""Days""]",alive,Girl,Asian,53,B,Pos,STrue,DFalse,AFalse,6,New York
+"Quantity[3372, ""Days""]",alive,Boy,Black,49,AB,Pos,SFalse,DTrue,ATrue,6,Seattle
+"Quantity[3379, ""Days""]",alive,Girl,Indigenious,37,A,Neg,SFalse,DTrue,AFalse,11,Detroit
+"Quantity[3412, ""Days""]",alive,Boy,White,57,B,Pos,STrue,DFalse,ATrue,9,New York
+"Quantity[3420, ""Days""]",alive,Boy,White,38,A,Pos,STrue,DTrue,ATrue,5,Detroit
+"Quantity[14, ""Days""]",alive,Girl,Asian,44,A,Pos,STrue,DFalse,ATrue,8,Seattle
+"Quantity[40, ""Days""]",dead,Girl,Indigenious,53,O,Pos,STrue,DFalse,ATrue,8,New York
+"Quantity[45, ""Days""]",dead,Boy,White,59,B,Neg,STrue,DTrue,AFalse,11,New York
+"Quantity[93, ""Days""]",alive,Girl,Black,26,O,Pos,STrue,DFalse,AFalse,10,New York
+"Quantity[106, ""Days""]",dead,Boy,Black,43,O,Neg,STrue,DTrue,AFalse,8,Baltimore
+"Quantity[116, ""Days""]",alive,Girl,Black,60,AB,Neg,STrue,DFalse,ATrue,7,Houston
+"Quantity[116, ""Days""]",alive,Boy,Asian,38,O,Neg,STrue,DTrue,ATrue,5,Baltimore
+"Quantity[121, ""Days""]",dead,Girl,Asian,25,A,Neg,STrue,DTrue,ATrue,11,Seattle
+"Quantity[229, ""Days""]",dead,Girl,Black,60,A,Neg,STrue,DTrue,AFalse,10,Baltimore
+"Quantity[250, ""Days""]",alive,Boy,Indigenious,21,O,Pos,SFalse,DFalse,AFalse,8,Detroit
+"Quantity[259, ""Days""]",alive,Boy,White,25,B,Pos,SFalse,DFalse,AFalse,10,New York
+"Quantity[261, ""Days""]",alive,Boy,Black,64,O,Pos,SFalse,DTrue,AFalse,8,Houston
+"Quantity[306, ""Days""]",alive,Girl,Black,55,AB,Pos,SFalse,DFalse,AFalse,9,Atlanta
+"Quantity[312, ""Days""]",alive,Girl,Indigenious,27,AB,Pos,SFalse,DTrue,ATrue,7,Baltimore
+"Quantity[344, ""Days""]",dead,Boy,Asian,61,A,Pos,STrue,DFalse,AFalse,10,Seattle
+"Quantity[392, ""Days""]",alive,Girl,Asian,21,B,Neg,SFalse,DTrue,ATrue,10,Baltimore
+"Quantity[442, ""Days""]",alive,Girl,Black,61,O,Pos,STrue,DFalse,ATrue,11,Atlanta
+"Quantity[512, ""Days""]",alive,Girl,Indigenious,30,AB,Pos,STrue,DFalse,ATrue,9,Seattle
+"Quantity[625, ""Days""]",alive,Boy,White,68,A,Pos,STrue,DTrue,AFalse,6,Baltimore
+"Quantity[673, ""Days""]",alive,Girl,Black,33,B,Pos,STrue,DFalse,AFalse,5,Baltimore
+"Quantity[731, ""Days""]",alive,Boy,White,32,O,Neg,STrue,DFalse,ATrue,7,San Fransisco
+"Quantity[777, ""Days""]",alive,Girl,Asian,43,AB,Neg,STrue,DTrue,AFalse,11,Detroit
+"Quantity[864, ""Days""]",dead,Boy,Indigenious,39,A,Neg,SFalse,DTrue,ATrue,8,Baltimore
+"Quantity[879, ""Days""]",alive,Boy,Indigenious,21,AB,Pos,STrue,DFalse,ATrue,11,Houston
+"Quantity[887, ""Days""]",alive,Girl,Asian,59,B,Pos,SFalse,DTrue,AFalse,10,Houston
+"Quantity[899, ""Days""]",alive,Boy,Black,43,B,Pos,STrue,DFalse,ATrue,6,Detroit
+"Quantity[899, ""Days""]",alive,Girl,White,30,O,Neg,SFalse,DFalse,ATrue,10,San Fransisco
+"Quantity[903, ""Days""]",alive,Girl,White,59,O,Pos,STrue,DFalse,AFalse,11,Detroit
+"Quantity[920, ""Days""]",alive,Boy,Black,65,O,Neg,STrue,DFalse,ATrue,7,Baltimore
+"Quantity[929, ""Days""]",dead,Girl,Black,37,A,Pos,SFalse,DTrue,AFalse,7,Houston
+"Quantity[943, ""Days""]",dead,Girl,Black,69,AB,Neg,SFalse,DTrue,AFalse,7,Atlanta
+"Quantity[953, ""Days""]",alive,Boy,Asian,24,A,Neg,STrue,DTrue,AFalse,7,San Fransisco
+"Quantity[953, ""Days""]",alive,Girl,Black,58,B,Neg,STrue,DTrue,AFalse,7,Seattle
+"Quantity[1016, ""Days""]",dead,Girl,Asian,30,AB,Neg,SFalse,DFalse,AFalse,8,Baltimore
+"Quantity[1151, ""Days""]",alive,Boy,White,51,B,Neg,SFalse,DFalse,AFalse,10,New York
+"Quantity[1196, ""Days""]",dead,Boy,Black,52,O,Pos,STrue,DTrue,ATrue,11,Phoenix
+"Quantity[1291, ""Days""]",alive,Boy,Asian,57,B,Pos,STrue,DTrue,ATrue,5,Baltimore
+"Quantity[1291, ""Days""]",alive,Boy,Indigenious,58,B,Neg,STrue,DTrue,AFalse,7,Detroit
+"Quantity[1457, ""Days""]",alive,Girl,Asian,40,AB,Neg,SFalse,DFalse,AFalse,6,Atlanta
+"Quantity[1508, ""Days""]",alive,Girl,White,32,O,Pos,STrue,DTrue,AFalse,5,Seattle
+"Quantity[1567, ""Days""]",alive,Girl,Indigenious,20,O,Pos,SFalse,DFalse,AFalse,5,New York
+"Quantity[1674, ""Days""]",alive,Boy,Asian,56,B,Neg,SFalse,DFalse,AFalse,8,New York
+"Quantity[1736, ""Days""]",alive,Girl,Black,32,O,Neg,SFalse,DTrue,AFalse,5,San Fransisco
+"Quantity[1739, ""Days""]",alive,Boy,Black,21,AB,Pos,SFalse,DTrue,ATrue,10,Phoenix
+"Quantity[1942, ""Days""]",alive,Girl,Black,60,B,Neg,STrue,DTrue,AFalse,6,Houston
+"Quantity[2026, ""Days""]",alive,Boy,Indigenious,56,A,Pos,STrue,DFalse,AFalse,9,Seattle
+"Quantity[2171, ""Days""]",dead,Boy,White,36,A,Pos,STrue,DTrue,AFalse,7,Seattle
+"Quantity[2268, ""Days""]",alive,Boy,Indigenious,59,O,Pos,STrue,DTrue,AFalse,8,Detroit
+"Quantity[2276, ""Days""]",dead,Boy,White,22,O,Neg,SFalse,DFalse,AFalse,10,Seattle
+"Quantity[2413, ""Days""]",alive,Girl,White,32,O,Pos,STrue,DFalse,AFalse,6,Atlanta
+"Quantity[2434, ""Days""]",alive,Boy,Black,53,B,Neg,SFalse,DFalse,AFalse,6,Detroit
+"Quantity[2463, ""Days""]",alive,Girl,Black,57,A,Neg,STrue,DTrue,ATrue,8,Seattle
+"Quantity[2650, ""Days""]",dead,Boy,Indigenious,20,AB,Pos,SFalse,DTrue,AFalse,9,Houston
+"Quantity[2680, ""Days""]",alive,Girl,Asian,57,AB,Neg,STrue,DFalse,ATrue,9,San Fransisco
+"Quantity[2935, ""Days""]",alive,Boy,Indigenious,28,O,Pos,STrue,DTrue,ATrue,10,San Fransisco
+"Quantity[3072, ""Days""]",alive,Girl,Asian,64,O,Pos,STrue,DFalse,AFalse,10,San Fransisco
+"Quantity[3161, ""Days""]",alive,Boy,Indigenious,25,B,Neg,STrue,DFalse,AFalse,5,Baltimore
+"Quantity[3211, ""Days""]",alive,Boy,Black,24,B,Neg,STrue,DTrue,AFalse,11,Phoenix
+"Quantity[3304, ""Days""]",alive,Girl,Black,31,O,Pos,SFalse,DTrue,ATrue,5,Phoenix
